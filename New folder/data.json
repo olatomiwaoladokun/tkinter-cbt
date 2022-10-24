@@ -1,0 +1,5370 @@
+{
+   "1": [
+      {
+         "question": "Which of the following extract instructions and decodes them?",
+         "option A": "Memory",
+         "option B": "CPU",
+         "option C": "ALU",
+         "option D": "Control Unit",
+         "answer": "B"
+      }
+   ],
+   "2": [
+      {
+         "question": "Which linking unit allows the entry of data into the computer system?",
+         "option A": "Output Unit",
+         "option B": "Input Unit",
+         "option C": "Processor",
+         "option D": "Cache memory",
+         "answer": "B"
+      }
+   ],
+   "3": [
+      {
+         "question": "Which of the following holds data for a long period of time?",
+         "option A": "Cache Memory",
+         "option B": "Hard Disk",
+         "option C": "RAM",
+         "option D": "Diskette",
+         "answer": "B"
+      }
+   ],
+   "4": [
+      {
+         "question": "Which of the following refers to instruction set of a computer?",
+         "option A": "Arithmetic operations performed by a memory location",
+         "option B": "Logical operations performed by a cache memory",
+         "option C": "The operations a microprocessor performs",
+         "option D": "Arithmetic operations performed by a microprocessor",
+         "answer": "C"
+      }
+   ],
+   "5": [
+      {
+         "question": "Which of the following makes up the CPU?",
+         "option A": "Memory and ALU",
+         "option B": "Cache and Control unit",
+         "option C": "Control unit and ALU",
+         "option D": "Ram and Control unit",
+         "answer": "C"
+      }
+   ],
+   "6": [
+      {
+         "question": "Which of the following is the fastest?",
+         "option A": "RAM",
+         "option B": "Cache",
+         "option C": "Hard drive",
+         "option D": "Flash disk",
+         "answer": "B"
+      }
+   ],
+   "7": [
+      {
+         "question": "Which of the following is a unit for measuring the speed of a computer system",
+         "option A": "10-9",
+         "option B": "10-6",
+         "option C": "103",
+         "option D": "106",
+         "answer": "B"
+      }
+   ],
+   "8": [
+      {
+         "question": "With respect to computer system, what is versatility?",
+         "option A": "Ability to carry out same multiple tasks",
+         "option B": "ability to execute completely different type of work",
+         "option C": "ability to carry out related tasks in limited time",
+         "option D": "ability to carry out iteration.",
+         "answer": "B"
+      }
+   ],
+   "9": [
+      {
+         "question": "Which of the following is an in-built memory?",
+         "option A": "hard disk",
+         "option B": "magnetic drive",
+         "option C": "RAM/cache",
+         "option D": "Floppy disk",
+         "answer": "C"
+      }
+   ],
+   "10": [
+      {
+         "question": "Which of the following is crucial to problem solving?",
+         "option A": "Problem initiation",
+         "option B": "Problem identification",
+         "option C": "Problem creation",
+         "option D": "Problem definition",
+         "answer": "B"
+      }
+   ],
+   "11": [
+      {
+         "question": "The primary language understood by a computer is______________",
+         "option A": "High level language",
+         "option B": "Low level language",
+         "option C": "Intermediate language",
+         "option D": "Object languages",
+         "answer": "C"
+      }
+   ],
+   "12": [
+      {
+         "question": "Which of the following relates to steps required to complete a task?",
+         "option A": "Flowcharts",
+         "option B": "Data flows",
+         "option C": "Algorithm",
+         "option D": "Structure charts",
+         "answer": "C"
+      }
+   ],
+   "13": [
+      {
+         "question": "Which of the following is closer to the processor?",
+         "option A": "RAM",
+         "option B": "Cache",
+         "option C": "Hard drive",
+         "option D": "Flash disk",
+         "answer": "B"
+      }
+   ],
+   "14": [
+      {
+         "question": "Which of the following is not a function of the input unit?",
+         "option A": "It accepts (or reads) the list of instructions and data from the outside world.",
+         "option B": "It converts these instructions and data in computer acceptable format.",
+         "option C": "It supplies the converted instructions and data to the computer system for further processing",
+         "option D": "It converts these coded results to human acceptable (readable) form",
+         "answer": "D"
+      }
+   ],
+   "15": [
+      {
+         "question": "Which of the following is a flash memory device?",
+         "option A": "Memory stick",
+         "option B": "Blu-ray disc",
+         "option C": "Tape cassette",
+         "option D": "SSD",
+         "answer": "D"
+      }
+   ],
+   "16": [
+      {
+         "question": "Which of the following functions as both input and output device?",
+         "option A": "Facsimile",
+         "option B": "Plotters",
+         "option C": "Webcam",
+         "option D": "Projector",
+         "answer": "A"
+      }
+   ],
+   "17": [
+      {
+         "question": "Which of the following does not relate to the storage functions of the memory?",
+         "option A": "Final results of processing before these results are released to an output device",
+         "option B": "Storage of intermediate results of processing.",
+         "option C": "Storage of all data to be processed and the instruction required for processing",
+         "option D": "Arithmetic data only",
+         "answer": "D"
+      }
+   ],
+   "18": [
+      {
+         "question": "Which of the following performs comparison and calculations?",
+         "option A": "Memory",
+         "option B": "USB",
+         "option C": "CPU",
+         "option D": "Control unit",
+         "answer": "C"
+      }
+   ],
+   "19": [
+      {
+         "question": "Which of the following relates to diligence in computers?",
+         "option A": "Free from tiredness and fatigue",
+         "option B": "Ability to compute error",
+         "option C": "Ability to make multiple comparisons",
+         "option D": "Ability to lower human performance",
+         "answer": "A"
+      }
+   ],
+   "20": [
+      {
+         "question": "Which of the following set represents the typical functional component of a computer system from input to output?",
+         "option A": "Image scanner, super disk, LCD projection channel",
+         "option B": "LCD projection channel, Image scanner, super disk",
+         "option C": "Super disk, Image scanner, LCD projection channel",
+         "option D": "LCD projection channel, super disk, Image scanner",
+         "answer": "A"
+      }
+   ],
+   "21": [
+      {
+         "question": "Which of the following is a temporary storage device?",
+         "option A": "Magnetic disk",
+         "option B": "Hard disk",
+         "option C": "Cache memory",
+         "option D": "Network media",
+         "answer": "C"
+      }
+   ],
+   "22": [
+      {
+         "question": "Which of the following is a magnetic storage device?",
+         "option A": "Memory stick",
+         "option B": "Blu-ray disc",
+         "option C": "Hard disk",
+         "option D": "SSD",
+         "answer": "D"
+      }
+   ],
+   "23": [
+      {
+         "question": "How does complicated instruction set affect a computer system?",
+         "option A": "Makes operation performance faster",
+         "option B": "Makes CPU performance slower",
+         "option C": "Makes CPU performance faster",
+         "option D": "Makes no effect on the system performance",
+         "answer": "B"
+      }
+   ],
+   "24": [
+      {
+         "question": "Which of the following uses light for data storage?",
+         "option A": "Memory stick",
+         "option B": "Blu-ray disc",
+         "option C": "Tape cassette",
+         "option D": "SSD",
+         "answer": "B"
+      }
+   ],
+   "25": [
+      {
+         "question": "Which of the following controls both the internal and external devices?",
+         "option A": "ALU",
+         "option B": "CPU",
+         "option C": "CACHE",
+         "option D": "RAM",
+         "answer": "B"
+      }
+   ],
+   "26": [
+      {
+         "question": "Which of the following is an attribute of a good programmer?",
+         "option A": "Ability to encode fact into variables",
+         "option B": "Ability encode variables into facts",
+         "option C": "Ability to convert data into facts",
+         "option D": "Ability to store facts in the system",
+         "answer": "A"
+      }
+   ],
+   "27": [
+      {
+         "question": "To reduce the memory access time, which of the following can be incorporated?",
+         "option A": "heaps",
+         "option B": "Higher capacity RAM",
+         "option C": "SDRAM",
+         "option D": "Cache memory",
+         "answer": "D"
+      }
+   ],
+   "28": [
+      {
+         "question": "The small extremely fast RAMS are called",
+         "option A": "Cache",
+         "option B": "Heaps",
+         "option C": "Hard disk",
+         "option D": "Floppy disk",
+         "answer": "A"
+      }
+   ],
+   "29": [
+      {
+         "question": "Devices that accepts data from outside computer and transfer into CPU are called?",
+         "option A": "input devices",
+         "option B": "digital devices",
+         "option C": "analogue devices",
+         "option D": "truth table peripherals",
+         "answer": "A"
+      }
+   ],
+   "30": [
+      {
+         "question": "Devices which are used to receive data from central processing unit are classified as?",
+         "option A": "output/input devices",
+         "option B": "digital devices",
+         "option C": "signaled devices",
+         "option D": "output devices",
+         "answer": "A"
+      }
+   ],
+   "31": [
+      {
+         "question": "RAM stands for",
+         "option A": "Random Access Memory",
+         "option B": "Read Access Memory",
+         "option C": "Read Arithmetic Memory",
+         "option D": "Random Arithmetic Memory",
+         "answer": "A"
+      }
+   ],
+   "32": [
+      {
+         "question": "Which of the following computer component is correctly associated with the function it performs?",
+         "option A": "monitor: output",
+         "option B": "CPU: storage",
+         "option C": "RAM: processing",
+         "option D": "Optical drive: input",
+         "answer": "A"
+      }
+   ],
+   "33": [
+      {
+         "question": "The hardware unit used for controlling computer system operation is___?",
+         "option A": "monitor",
+         "option B": "RAM",
+         "option C": "Processor",
+         "option D": "keyboard",
+         "answer": "C"
+      }
+   ],
+   "34": [
+      {
+         "question": "The hardware unit for long-term storage is_____?",
+         "option A": "RAM",
+         "option B": "Hard Disk",
+         "option C": "Floppy disk",
+         "option D": "DVD",
+         "answer": "B"
+      }
+   ],
+   "35": [
+      {
+         "question": "Which of the following will be chosen based on speed to access?",
+         "option A": "RAM",
+         "option B": "Hard Disk",
+         "option C": "Floppy disk",
+         "option D": "CD-ROM",
+         "answer": "A"
+      }
+   ],
+   "36": [
+      {
+         "question": "The full meaning of ALU is_______________",
+         "option A": "Arithmetic Logic Unit",
+         "option B": "Array Logic Unit",
+         "option C": "Application Logic Unit",
+         "option D": "None of above",
+         "answer": "A"
+      }
+   ],
+   "37": [
+      {
+         "question": "ALU and Control Unit jointly known as__________________",
+         "option A": "RAM",
+         "option B": "ROM",
+         "option C": "CPU",
+         "option D": "PC",
+         "answer": "C"
+      }
+   ],
+   "38": [
+      {
+         "question": "RAM is an example of________________________",
+         "option A": "Secondary memory",
+         "option B": "Primary memory",
+         "option C": "Main memory",
+         "option D": "Both primary and secondary memory",
+         "answer": "B"
+      }
+   ],
+   "39": [
+      {
+         "question": "Magnetic disk is an example of",
+         "option A": "Secondary memory",
+         "option B": "Primary memory",
+         "option C": "Main memory",
+         "option D": "Both primary and secondary memory",
+         "answer": "A"
+      }
+   ],
+   "40": [
+      {
+         "question": "RAM is also called a",
+         "option A": "Read / Write Memory",
+         "option B": "Long Memory",
+         "option C": "Permanent Memory",
+         "option D": "Primary Memory",
+         "answer": "A"
+      }
+   ],
+   "41": [
+      {
+         "question": "All of the following are examples of storage devices EXCEPT",
+         "option A": "hard disk drives",
+         "option B": "printers",
+         "option C": "floppy disk drives",
+         "option D": "CD drives",
+         "answer": "B"
+      }
+   ],
+   "42": [
+      {
+         "question": "Computers process data into information by working exclusively with",
+         "option A": "multimedia",
+         "option B": "word",
+         "option C": "binary numbers",
+         "option D": "characters",
+         "answer": "C"
+      }
+   ],
+   "43": [
+      {
+         "question": "A DVD is an example of a",
+         "option A": "hard disk",
+         "option B": "optical storage",
+         "option C": "output device",
+         "option D": "solid-state storage device",
+         "answer": "B"
+      }
+   ],
+   "44": [
+      {
+         "question": "Which part of the computer is directly involved in executing the instructions of the computer program?",
+         "option A": "The scanner",
+         "option B": "The main storage",
+         "option C": "The secondary storage",
+         "option D": "The processor",
+         "answer": "D"
+      }
+   ],
+   "45": [
+      {
+         "question": "Which of the following does not store data permanently?",
+         "option A": "ROM",
+         "option B": "RAM",
+         "option C": "Floppy disk",
+         "option D": "Hard disk",
+         "answer": "B"
+      }
+   ],
+   "46": [
+      {
+         "question": "Which one of the following is true for RAM?",
+         "option A": "It is volatile memory",
+         "option B": "It is temporary memory",
+         "option C": "It is primary memory",
+         "option D": "All of the above",
+         "answer": "D"
+      }
+   ],
+   "47": [
+      {
+         "question": "What does a computer do after gathering data, processing it and sending the data to the output device?",
+         "option A": "Delete the data",
+         "option B": "Write the data",
+         "option C": "Hide the data",
+         "option D": "Stores the data",
+         "answer": "D"
+      }
+   ],
+   "48": [
+      {
+         "question": "Where are the programs and data currently processed by the CPU stored?",
+         "option A": "Internal memory",
+         "option B": "PROM",
+         "option C": "Mass memory",
+         "option D": "None of the above",
+         "answer": "D"
+      }
+   ],
+   "49": [
+      {
+         "question": "Accepted instructions are converted into machine language with the help of",
+         "option A": "Memory unit",
+         "option B": "Input Unit",
+         "option C": "Logical unit",
+         "option D": "Processing unit",
+         "answer": "B"
+      }
+   ],
+   "50": [
+      {
+         "question": "Secondary storage devices are",
+         "option A": "Long-term and high- capacity devices",
+         "option B": "Temporary in nature like RAM",
+         "option C": "Diskettes, tapes or removable devices",
+         "option D": "Permanent in nature like Cache memory",
+         "answer": "A"
+      }
+   ],
+   "51": [
+      {
+         "question": "A computer system is known for",
+         "option A": "Formulating instruction",
+         "option B": "Directing instruction",
+         "option C": "Executing Instruction",
+         "option D": "Formatting Instruction",
+         "answer": "C"
+      }
+   ],
+   "52": [
+      {
+         "question": "The first thing a computer does while it manipulates data is",
+         "option A": "Store the data",
+         "option B": "Take the data as input",
+         "option C": "Process the data",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "53": [
+      {
+         "question": "A computer cannot do the following",
+         "option A": "Store Data",
+         "option B": "process data",
+         "option C": "take in data as input",
+         "option D": "None of the above",
+         "answer": "D"
+      }
+   ],
+   "54": [
+      {
+         "question": "One of the following could not be classified as part of a computer",
+         "option A": "Display unit",
+         "option B": "CPU",
+         "option C": "Storage Unit",
+         "option D": "None of the above",
+         "answer": "D"
+      }
+   ],
+   "55": [
+      {
+         "question": "A program could be defined as",
+         "option A": "A formative instruction",
+         "option B": "A directed instruction",
+         "option C": "formatted instruction",
+         "option D": "An executable instruction",
+         "answer": "D"
+      }
+   ],
+   "56": [
+      {
+         "question": "A computer can be classified based on the following except",
+         "option A": "Type of Data Processed",
+         "option B": "Age of technology",
+         "option C": "Size",
+         "option D": "Meaning",
+         "answer": "D"
+      }
+   ],
+   "57": [
+      {
+         "question": "Computer is classified on purpose based on",
+         "option A": "Special Purpose",
+         "option B": "General Purpose",
+         "option C": "All of the above",
+         "option D": "None of the above",
+         "answer": "C"
+      }
+   ],
+   "58": [
+      {
+         "question": "A classification of computer that combines the best qualities of digital and analog computers is",
+         "option A": "Joint computers",
+         "option B": "Specific computers",
+         "option C": "Hybrid computers",
+         "option D": "General computers",
+         "answer": "C"
+      }
+   ],
+   "59": [
+      {
+         "question": "The program for operating computer is stored in",
+         "option A": "RAM",
+         "option B": "ROM",
+         "option C": "CPU",
+         "option D": "Monitor",
+         "answer": "B"
+      }
+   ],
+   "60": [
+      {
+         "question": "A Computer that is known for representing data or information in discrete or discontinuous form is",
+         "option A": "Joint computer",
+         "option B": "Hybrid computer",
+         "option C": "Special Computer",
+         "option D": "Digital Computer",
+         "answer": "D"
+      }
+   ],
+   "61": [
+      {
+         "question": "The first programmable computer is",
+         "option A": "MAC engine",
+         "option B": "SUM engine",
+         "option C": "Difference engine",
+         "option D": "Product engine",
+         "answer": "C"
+      }
+   ],
+   "62": [
+      {
+         "question": "One of the following is the major characteristic of the first generation computer",
+         "option A": "Transistors",
+         "option B": "Integrated circuit",
+         "option C": "Vacuum tubes",
+         "option D": "All of the above",
+         "answer": "C"
+      }
+   ],
+   "63": [
+      {
+         "question": "The name of the person that produced the first computer is",
+         "option A": "Charles Babbage",
+         "option B": "Pascal Blaise",
+         "option C": "Bill Gate",
+         "option D": "Mike Warren",
+         "answer": "A"
+      }
+   ],
+   "64": [
+      {
+         "question": "The electronic switches that was used instead of electromechanical relays by first generation computers could also be termed as",
+         "option A": "Vacuum tubes",
+         "option B": "Integrated circuits",
+         "option C": "VLSI",
+         "option D": "Transistors",
+         "answer": "A"
+      }
+   ],
+   "65": [
+      {
+         "question": "The concept of Von Newman that made EDVAC more remarkable than ENIAC is",
+         "option A": "Speed",
+         "option B": "Accuracy",
+         "option C": "Stored program",
+         "option D": "None of the above",
+         "answer": "C"
+      }
+   ],
+   "66": [
+      {
+         "question": "The remarkable feature of the second generation computers is",
+         "option A": "Transistors",
+         "option B": "Integrated circuit",
+         "option C": "Vacuum tubes",
+         "option D": "All of the above",
+         "answer": "A"
+      }
+   ],
+   "67": [
+      {
+         "question": "The type memory that was used by second generation computers is classified as",
+         "option A": "Magnetic Core",
+         "option B": "Solid base",
+         "option C": "Liquid State",
+         "option D": "Vacuum tubes",
+         "answer": "A"
+      }
+   ],
+   "68": [
+      {
+         "question": "Which of the following is not part of classification by size",
+         "option A": "Laptop computer",
+         "option B": "Mini computer",
+         "option C": "Super computer",
+         "option D": "Micro computer",
+         "answer": "A"
+      }
+   ],
+   "69": [
+      {
+         "question": "One of the following is part of the classification of computers by size",
+         "option A": "Desktop computers",
+         "option B": "Laptop computers",
+         "option C": "Mainframe computers",
+         "option D": "Palmtop computers",
+         "answer": "C"
+      }
+   ],
+   "70": [
+      {
+         "question": "Which generation of computers is characterized by the development of Integrated circuit",
+         "option A": "First",
+         "option B": "Second",
+         "option C": "Third",
+         "option D": "Fourth",
+         "answer": "B"
+      }
+   ],
+   "71": [
+      {
+         "question": "One of the characteristics of fourth generation of computers is",
+         "option A": "VLSI",
+         "option B": "IC",
+         "option C": "LSI",
+         "option D": "Transitor",
+         "answer": "C"
+      }
+   ],
+   "72": [
+      {
+         "question": "Palmtop and desktop computers are examples of",
+         "option A": "Larger computers",
+         "option B": "Mega computers\nMega computers\nMega computers",
+         "option C": "Super computers",
+         "option D": "Micro computers",
+         "answer": "D"
+      }
+   ],
+   "73": [
+      {
+         "question": "Laptop and Tablet computers are examples of",
+         "option A": "Mega Computers",
+         "option B": "Micro computers",
+         "option C": "Super computers",
+         "option D": "Mini computers",
+         "answer": "B"
+      }
+   ],
+   "74": [
+      {
+         "question": "VLSI is a major characteristic of",
+         "option A": "Sixth generation",
+         "option B": "Fifth generation",
+         "option C": "Fourth generation",
+         "option D": "Third generation",
+         "answer": "B"
+      }
+   ],
+   "75": [
+      {
+         "question": "Which of the generation of computers were also characterized by SSI and MSI evolution",
+         "option A": "Sixth generation",
+         "option B": "Fifth generation",
+         "option C": "Fourth generation",
+         "option D": "Third generation",
+         "answer": "D"
+      }
+   ],
+   "76": [
+      {
+         "question": "Development of LAN is one of the advantages of",
+         "option A": "First generation",
+         "option B": "Second generation",
+         "option C": "Third generation",
+         "option D": "Fifth generation",
+         "answer": "D"
+      }
+   ],
+   "77": [
+      {
+         "question": "Mouse is part of computer",
+         "option A": "Software",
+         "option B": "Hardware",
+         "option C": "Applicationware",
+         "option D": "Partsware",
+         "answer": "B"
+      }
+   ],
+   "78": [
+      {
+         "question": "CPU stands for",
+         "option A": "Cost of Public Union",
+         "option B": "Central Processing Union",
+         "option C": "Central Processing Union",
+         "option D": "None of the above",
+         "answer": "D"
+      }
+   ],
+   "79": [
+      {
+         "question": "RAM and ROM are examples of computer",
+         "option A": "Monitor",
+         "option B": "Software",
+         "option C": "CPU",
+         "option D": "Memory",
+         "answer": "D"
+      }
+   ],
+   "80": [
+      {
+         "question": "identify an output device from the options below",
+         "option A": "speaker",
+         "option B": "touch pen",
+         "option C": "keyboard",
+         "option D": "mouse",
+         "answer": "A"
+      }
+   ],
+   "81": [
+      {
+         "question": "identify an input device from the options below",
+         "option A": "printer",
+         "option B": "mouse",
+         "option C": "speaker",
+         "option D": "monitor",
+         "answer": "B"
+      }
+   ],
+   "82": [
+      {
+         "question": "Which group are output devices below",
+         "option A": "Mouse, printer, monitor",
+         "option B": "Speaker, mouse, printer",
+         "option C": "Keyboard, monitor, speaker",
+         "option D": "Printer, monitor, speaker",
+         "answer": "D"
+      }
+   ],
+   "83": [
+      {
+         "question": "ROM stands for",
+         "option A": "Random output means",
+         "option B": "Random Access Memory",
+         "option C": "Read only memory",
+         "option D": "Read out memory",
+         "answer": "C"
+      }
+   ],
+   "84": [
+      {
+         "question": "RAM stands for",
+         "option A": "Random output means",
+         "option B": "Random Access Memory",
+         "option C": "Read out memory",
+         "option D": "Read only memory",
+         "answer": "B"
+      }
+   ],
+   "85": [
+      {
+         "question": "One of these is not an input device",
+         "option A": "Mouse",
+         "option B": "Keyboard",
+         "option C": "Scanner",
+         "option D": "printer",
+         "answer": "D"
+      }
+   ],
+   "86": [
+      {
+         "question": "CPU can be found in",
+         "option A": "Display unit",
+         "option B": "System unit",
+         "option C": "Keyboard",
+         "option D": "mouse",
+         "answer": "B"
+      }
+   ],
+   "87": [
+      {
+         "question": "which of these is a characteristics of first generation computers",
+         "option A": "parallelism",
+         "option B": "very large and consume spaces",
+         "option C": "very small and can be carried on hand",
+         "option D": "multitasking",
+         "answer": "B"
+      }
+   ],
+   "88": [
+      {
+         "question": "SSI as associated with generation of computers is an acronym for",
+         "option A": "Small scale integration",
+         "option B": "Small sectional interpretation",
+         "option C": "Solid state interface",
+         "option D": "Solid statue interface",
+         "answer": "A"
+      }
+   ],
+   "89": [
+      {
+         "question": "MSI as associated with generation of computers is an acronym for",
+         "option A": "Most scalable interpretation",
+         "option B": "Medium scale integration",
+         "option C": "Middle sectional interpretation",
+         "option D": "Meddle section interpretation",
+         "answer": "B"
+      }
+   ],
+   "90": [
+      {
+         "question": "Low level languages could be seen as a characteristics of",
+         "option A": "Second generation computers",
+         "option B": "Fifth generation computers",
+         "option C": "Fourth generation computers",
+         "option D": "Third generation computers",
+         "answer": "A"
+      }
+   ],
+   "91": [
+      {
+         "question": "High level languages were first introduced first in the",
+         "option A": "Second generation computers",
+         "option B": "Fifth generation computers",
+         "option C": "Fourth generation computers",
+         "option D": "Third generation computers",
+         "answer": "A"
+      }
+   ],
+   "92": [
+      {
+         "question": "Assembly language is an example of ������������",
+         "option A": "High level language",
+         "option B": "Highest level language",
+         "option C": "Low level language",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "93": [
+      {
+         "question": "Parallelism is a characteristic of",
+         "option A": "Second generation computers",
+         "option B": "Fifth generation computers",
+         "option C": "Fourth generation computers",
+         "option D": "Third generation computers",
+         "answer": "B"
+      }
+   ],
+   "94": [
+      {
+         "question": "USB as a connective port of computer stands for ...............",
+         "option A": "United State of Base",
+         "option B": "Universal section boundary",
+         "option C": "Universal Serial Bus",
+         "option D": "Union Section Bus",
+         "answer": "C"
+      }
+   ],
+   "95": [
+      {
+         "question": "Computer is classified on size based on",
+         "option A": "Mini computers",
+         "option B": "Micro computers",
+         "option C": "All of the above",
+         "option D": "None of the above",
+         "answer": "C"
+      }
+   ],
+   "96": [
+      {
+         "question": "Which of these is not among classification of computers by generation",
+         "option A": "Fifth",
+         "option B": "First",
+         "option C": "Half",
+         "option D": "Second",
+         "answer": "C"
+      }
+   ],
+   "97": [
+      {
+         "question": "Which of these are group of input devices",
+         "option A": "Camera, mouse, scanner",
+         "option B": "Mouse, keyboard, printer",
+         "option C": "Keyboard, light pen, projector",
+         "option D": "Mouse, keyboard, monitor",
+         "answer": "A"
+      }
+   ],
+   "98": [
+      {
+         "question": "Which of these cannot be classified as part of a computer system",
+         "option A": "Printer",
+         "option B": "Mouse",
+         "option C": "Scanner\nAll of the above",
+         "option D": "CUP",
+         "answer": "D"
+      }
+   ],
+   "99": [
+      {
+         "question": "Fortran and COBOL are examples of",
+         "option A": "Low level language",
+         "option B": "High level language",
+         "option C": "All of the above",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "100": [
+      {
+         "question": "Computer software is basically - and - required to perform specific tasks on a system.",
+         "option A": "Operations and programs",
+         "option B": "Programs and procedure",
+         "option C": "Systems and procedure",
+         "option D": "procedure and operations",
+         "answer": "A"
+      }
+   ],
+   "101": [
+      {
+         "question": "Computer languages include",
+         "option A": "Low-level, medium and Assembly Languages",
+         "option B": "Low, Assembly and High Level languages",
+         "option C": "Assembly, Low-level and Machine Languages",
+         "option D": "Low, High and Medium Languages",
+         "answer": "B"
+      }
+   ],
+   "102": [
+      {
+         "question": "One of the following is NOT a system software",
+         "option A": "Device drivers",
+         "option B": "Software components",
+         "option C": "Operating systems",
+         "option D": "System components",
+         "answer": "D"
+      }
+   ],
+   "103": [
+      {
+         "question": "Programming software helps writing programs through the following EXCEPT",
+         "option A": "Compilers",
+         "option B": "Deboggers",
+         "option C": "Editors",
+         "option D": "Data Link layer",
+         "answer": "B"
+      }
+   ],
+   "104": [
+      {
+         "question": "Class of software that is used for solving specific tasks is generally termed asoperation at the same time is called .......",
+         "option A": "Specific-task software",
+         "option B": "Microsoft suite",
+         "option C": "Application software",
+         "option D": "Enterprise software",
+         "answer": "C"
+      }
+   ],
+   "105": [
+      {
+         "question": "Microsoft Access is an example of a",
+         "option A": "Multimedia software",
+         "option B": "Simulation software",
+         "option C": "Presentation software",
+         "option D": "Database software",
+         "answer": "D"
+      }
+   ],
+   "106": [
+      {
+         "question": "Customer relationship management system is an example of a",
+         "option A": "Multimedia software",
+         "option B": "Simulation software",
+         "option C": "Enterprise software",
+         "option D": "Management software",
+         "answer": "C"
+      }
+   ],
+   "107": [
+      {
+         "question": "Encarta is an example of �����������",
+         "option A": "Educational software",
+         "option B": "Management software",
+         "option C": "Multimedia software",
+         "option D": "Application suite",
+         "answer": "A"
+      }
+   ],
+   "108": [
+      {
+         "question": "Software used to manipulate text, graphics and numbers are known as ...........",
+         "option A": "Debuggers",
+         "option B": "Editing software",
+         "option C": "Graphic software",
+         "option D": "Application software",
+         "answer": "D"
+      }
+   ],
+   "109": [
+      {
+         "question": "Applications that provide a collection of documents and graphic illustrations including clip art drawings, diagrams, diagrams and photos",
+         "option A": "Graphic applications",
+         "option B": "Drawing applications",
+         "option C": "Microsoft suite",
+         "option D": "Web-based applications",
+         "answer": "D"
+      }
+   ],
+   "110": [
+      {
+         "question": "The Class of application that can be used to organize, analyze and chart numerical data such as financial reports is known as",
+         "option A": "Microsoft Excel",
+         "option B": "Corel Quattro Pro",
+         "option C": "Spreadsheet",
+         "option D": "Lotus 1-2-3",
+         "answer": "C"
+      }
+   ],
+   "111": [
+      {
+         "question": "A collection of relational data is known as",
+         "option A": "INFORMATION",
+         "option B": "DATABASE",
+         "option C": "FILE",
+         "option D": "DOCUMENT",
+         "answer": "B"
+      }
+   ],
+   "112": [
+      {
+         "question": "SQL means",
+         "option A": "Structured Quality Labels",
+         "option B": "System Query Language",
+         "option C": "System Quality Labels",
+         "option D": "Structured Query Language",
+         "answer": "D"
+      }
+   ],
+   "113": [
+      {
+         "question": "DBMS means",
+         "option A": "Database Management Software",
+         "option B": "Database Manipulating System",
+         "option C": "Database Manager System",
+         "option D": "Database Management System",
+         "answer": "D"
+      }
+   ],
+   "114": [
+      {
+         "question": "One of the following best describes a malware",
+         "option A": "INTRUSIVE",
+         "option B": "FREE DOWNLOADABLE",
+         "option C": "CHEAP",
+         "option D": "downloadable",
+         "answer": "A"
+      }
+   ],
+   "115": [
+      {
+         "question": "Software that comes with a demo version is known as",
+         "option A": "malware",
+         "option B": "shareware",
+         "option C": "spyware",
+         "option D": "commercial software",
+         "answer": "D"
+      }
+   ],
+   "116": [
+      {
+         "question": "Whatsapp is an example of",
+         "option A": "malware",
+         "option B": "chatware",
+         "option C": "shareware",
+         "option D": "adware",
+         "answer": "C"
+      }
+   ],
+   "117": [
+      {
+         "question": "Trojan horses, worms and viruses are examples of",
+         "option A": "malware",
+         "option B": "nagware",
+         "option C": "shareware",
+         "option D": "adware",
+         "answer": "A"
+      }
+   ],
+   "118": [
+      {
+         "question": "Norton internet security suite and the antivirus system are examples of",
+         "option A": "malware suite",
+         "option B": "utility suite",
+         "option C": "shareware suite",
+         "option D": "adware suite",
+         "answer": "B"
+      }
+   ],
+   "119": [
+      {
+         "question": "Computer softwares can be classified as",
+         "option A": "Programming and graphics",
+         "option B": "Editors and debuggers",
+         "option C": "system and application",
+         "option D": "Application and programming",
+         "answer": "C"
+      }
+   ],
+   "120": [
+      {
+         "question": "Computer data is transmitted block by block in transmission known as ..................",
+         "option A": "synchronous",
+         "option B": "digital",
+         "option C": "asynchronous",
+         "option D": "analog",
+         "answer": "A"
+      }
+   ],
+   "121": [
+      {
+         "question": "In computer, which of the following is a communication media?",
+         "option A": "all of these",
+         "option B": "standard telephone lines",
+         "option C": "coaxial cables",
+         "option D": "microwave transmission",
+         "answer": "A"
+      }
+   ],
+   "122": [
+      {
+         "question": "In computer, converting a digital signal in to an analog signal is called",
+         "option A": "modulation",
+         "option B": "demodulation",
+         "option C": "conversion",
+         "option D": "transformation",
+         "answer": "A"
+      }
+   ],
+   "123": [
+      {
+         "question": "Signals generated by a operating system to send it over phone line must be further converted into a",
+         "option A": "AC signal",
+         "option B": "analog signal",
+         "option C": "digital",
+         "option D": "microwave",
+         "answer": "B"
+      }
+   ],
+   "124": [
+      {
+         "question": "In computer, process of superimposing a low frequency signal over a high frequency signal is called",
+         "option A": "modulation",
+         "option B": "demodulation",
+         "option C": "conversion",
+         "option D": "transformation",
+         "answer": "A"
+      }
+   ],
+   "125": [
+      {
+         "question": "Software application which is used for retrieving, presenting and traversing information resources on World Wide Web is called",
+         "option A": "gateway",
+         "option B": "EFT",
+         "option C": "browser",
+         "option D": "teleconferencing",
+         "answer": "C"
+      }
+   ],
+   "126": [
+      {
+         "question": "Layers present in a computer OSI model are",
+         "option A": "4",
+         "option B": "5",
+         "option C": "6",
+         "option D": "7",
+         "answer": "D"
+      }
+   ],
+   "127": [
+      {
+         "question": "Collection of documents stored in a computer which is permanently connected with internet around world is called",
+         "option A": "telnet",
+         "option B": "www",
+         "option C": "FTP",
+         "option D": "LAN",
+         "answer": "B"
+      }
+   ],
+   "128": [
+      {
+         "question": "A node which is represented in a computer network topology is basically a",
+         "option A": "computer",
+         "option B": "hub",
+         "option C": "hardware",
+         "option D": "printer",
+         "answer": "A"
+      }
+   ],
+   "129": [
+      {
+         "question": "Key element of a computer protocol is",
+         "option A": "syntax",
+         "option B": "semantics",
+         "option C": "timing",
+         "option D": "All of these",
+         "answer": "D"
+      }
+   ],
+   "130": [
+      {
+         "question": "Which of following is a computer internet protocol?",
+         "option A": "IEEE 802.2",
+         "option B": "IEEE 802.3",
+         "option C": "TCP/IP",
+         "option D": "MAC",
+         "answer": "C"
+      }
+   ],
+   "131": [
+      {
+         "question": "Computer software which combines audio and video application sharing is known as",
+         "option A": "teleconferencing software",
+         "option B": "data sharing software",
+         "option C": "project sharing software",
+         "option D": "utility software",
+         "answer": "A"
+      }
+   ],
+   "132": [
+      {
+         "question": "Topology which takes more cable than e.g. a bus, but benefit is that if a cable fails, only one node will be brought down is",
+         "option A": "bus topology",
+         "option B": "ring topology",
+         "option C": "star topology",
+         "option D": "mesh topology",
+         "answer": "D"
+      }
+   ],
+   "133": [
+      {
+         "question": "Which of following is not a benefit of a computer network?",
+         "option A": "reduce hardware cost",
+         "option B": "connect people",
+         "option C": "enable shared applications",
+         "option D": "produce high quality programs",
+         "answer": "D"
+      }
+   ],
+   "134": [
+      {
+         "question": "In computer, ISO stands for",
+         "option A": "In computer, ISO stands for",
+         "option B": "independent system operator",
+         "option C": "infrared space observatory",
+         "option D": "international students organization",
+         "answer": "A"
+      }
+   ],
+   "135": [
+      {
+         "question": "Which of following is not a computer LAN topology?",
+         "option A": "bus topology",
+         "option B": "band",
+         "option C": "star",
+         "option D": "ring",
+         "answer": "B"
+      }
+   ],
+   "136": [
+      {
+         "question": "Main purpose of computer network is............",
+         "option A": "file sharing",
+         "option B": "printer sharing",
+         "option C": "hard disk sharing",
+         "option D": "all of these",
+         "answer": "D"
+      }
+   ],
+   "137": [
+      {
+         "question": "Transferring information from a computer to internet is called",
+         "option A": "downloading",
+         "option B": "downsizing",
+         "option C": "uploading",
+         "option D": "pasting",
+         "answer": "C"
+      }
+   ],
+   "138": [
+      {
+         "question": "Bottom layer of computer OSI model is...............",
+         "option A": "physical",
+         "option B": "data link",
+         "option C": "network",
+         "option D": "Application",
+         "answer": "A"
+      }
+   ],
+   "139": [
+      {
+         "question": "Top most layer of computer OSI model is..........",
+         "option A": "application",
+         "option B": "session",
+         "option C": "transport",
+         "option D": "presentation",
+         "answer": "A"
+      }
+   ],
+   "140": [
+      {
+         "question": "Layer of computer OSI model which furnishes electrical connections and signaling is known as........",
+         "option A": "application",
+         "option B": "physical",
+         "option C": "session",
+         "option D": "network",
+         "answer": "B"
+      }
+   ],
+   "141": [
+      {
+         "question": "In computer, FTP facility is used to.......",
+         "option A": "transfer protocol",
+         "option B": "transfer file",
+         "option C": "connect to internet",
+         "option D": "check PC",
+         "answer": "B"
+      }
+   ],
+   "142": [
+      {
+         "question": "If a computer in a network shares resources which can be accessed by other computers it is called a................",
+         "option A": "server",
+         "option B": "client",
+         "option C": "sender",
+         "option D": "port",
+         "answer": "A"
+      }
+   ],
+   "143": [
+      {
+         "question": "In computer, FTP stands for...............",
+         "option A": "file transfer protocol",
+         "option B": "finding tele path",
+         "option C": "final transmission program",
+         "option D": "file transfer process",
+         "answer": "A"
+      }
+   ],
+   "144": [
+      {
+         "question": "Layer of computer OSI model which performs data compression is.............",
+         "option A": "network",
+         "option B": "datalink",
+         "option C": "presentation",
+         "option D": "physical",
+         "answer": "D"
+      }
+   ],
+   "145": [
+      {
+         "question": "ISO developed a standard model of computer data communication system which is known as......",
+         "option A": "OSI",
+         "option B": "ANSI",
+         "option C": "DEC",
+         "option D": "SNA",
+         "answer": "A"
+      }
+   ],
+   "146": [
+      {
+         "question": "Layer of computer OSI model which is concerned with addressing and routing is called................",
+         "option A": "network",
+         "option B": "datalink",
+         "option C": "physical",
+         "option D": "transport",
+         "answer": "A"
+      }
+   ],
+   "147": [
+      {
+         "question": "Interconnection which is present between two or more computers so that they can communicate with each other is called..............",
+         "option A": "network",
+         "option B": "sharing",
+         "option C": "link",
+         "option D": "LAN",
+         "answer": "A"
+      }
+   ],
+   "148": [
+      {
+         "question": "OSI stands for...............",
+         "option A": "Open System internals",
+         "option B": "Open System international",
+         "option C": "Open System interconnection",
+         "option D": "Organization Standard International",
+         "answer": "C"
+      }
+   ],
+   "149": [
+      {
+         "question": "Framing is an activity at the.................layer of the OSI",
+         "option A": "Network",
+         "option B": "Application",
+         "option C": "physical",
+         "option D": "data link",
+         "answer": "D"
+      }
+   ],
+   "150": [
+      {
+         "question": "The following are advantages of social media except.........",
+         "option A": "sharing",
+         "option B": "socialization",
+         "option C": "cyberstalking",
+         "option D": "crowdsourcing",
+         "answer": "C"
+      }
+   ],
+   "151": [
+      {
+         "question": "The following are examples of social media platform except.............",
+         "option A": "Google",
+         "option B": "Google+",
+         "option C": "Facebook",
+         "option D": "Telegram",
+         "answer": "A"
+      }
+   ],
+   "152": [
+      {
+         "question": "The path through which signal will be sent between two nodes is determined at the..............layer",
+         "option A": "physical",
+         "option B": "logical",
+         "option C": "transport",
+         "option D": "network",
+         "answer": "D"
+      }
+   ],
+   "153": [
+      {
+         "question": "Conversion of bit into electrical or optical signals is the carried out at the ........layer",
+         "option A": "Data Link",
+         "option B": "Physical",
+         "option C": "Application",
+         "option D": "Transport",
+         "answer": "B"
+      }
+   ],
+   "154": [
+      {
+         "question": ".................layer performs the role of translator",
+         "option A": "Presentation",
+         "option B": "Session",
+         "option C": "Physical",
+         "option D": "Data Link",
+         "answer": "A"
+      }
+   ],
+   "155": [
+      {
+         "question": "The following are transmission modes except...............",
+         "option A": "Duplex",
+         "option B": "Quarter Duplex",
+         "option C": "Half Duplex",
+         "option D": "simplex",
+         "answer": "B"
+      }
+   ],
+   "156": [
+      {
+         "question": "Routers and gateways are devices found on the ......................layer of the OSI model",
+         "option A": "physical",
+         "option B": "SESSION",
+         "option C": "Presentation",
+         "option D": "None of the options",
+         "answer": "D"
+      }
+   ],
+   "157": [
+      {
+         "question": "Service point addrressing is one of the role of which layer?",
+         "option A": "Session layer",
+         "option B": "Transport layer",
+         "option C": "Network layer",
+         "option D": "Data Link layer",
+         "answer": "B"
+      }
+   ],
+   "158": [
+      {
+         "question": "Mechanism used by the session layer to prevent two parties from attempting the same critical operation at the same time is called .......",
+         "option A": "Operation management",
+         "option B": "Access management",
+         "option C": "Token management",
+         "option D": "None of the options",
+         "answer": "C"
+      }
+   ],
+   "159": [
+      {
+         "question": "The following activities are executed at the presentation layer except............",
+         "option A": "Encryption",
+         "option B": "Decryption",
+         "option C": "Compression",
+         "option D": "Framing",
+         "answer": "D"
+      }
+   ],
+   "160": [
+      {
+         "question": "The following are protocols on the Application layer except.......................",
+         "option A": "HTTP",
+         "option B": "FTP",
+         "option C": "UDP",
+         "option D": "DNS",
+         "answer": "C"
+      }
+   ],
+   "161": [
+      {
+         "question": "Which of the following is not the function of the Application Layer?",
+         "option A": "None of the Options",
+         "option B": "Directory Services",
+         "option C": "Mail Services",
+         "option D": "Mail Services",
+         "answer": "A"
+      }
+   ],
+   "162": [
+      {
+         "question": "SMTP stands for ...........",
+         "option A": "Systemic Mail Transfer Protocol",
+         "option B": "Simple Mail Transport Protocol",
+         "option C": "Systemic Mail Transmition Protocol",
+         "option D": "Simple Mail Transfer Protocol",
+         "answer": "D"
+      }
+   ],
+   "163": [
+      {
+         "question": "Which of the following is not a protocol in Layer 3 of the OSI model?",
+         "option A": "Open Shortest Path First",
+         "option B": "Internet Protocol Version 6",
+         "option C": "Exterior Gateway Protocol",
+         "option D": "Border Gateway Protocol",
+         "answer": "D"
+      }
+   ],
+   "164": [
+      {
+         "question": "The two types of connection control on the transport layer are...................................",
+         "option A": "Connectionless and Connection-Oriented TL",
+         "option B": "Active and Passive TL",
+         "option C": "Direct and Indirect TL",
+         "option D": "None of the options",
+         "answer": "A"
+      }
+   ],
+   "165": [
+      {
+         "question": "Bluetooth and Infrared operates on which layer of the OSI-model?",
+         "option A": "Transport",
+         "option B": "Physical",
+         "option C": "Application",
+         "option D": "Session",
+         "answer": "B"
+      }
+   ],
+   "166": [
+      {
+         "question": "Voltages and Baud rate needed for transmission is defined on the...........layer",
+         "option A": "Network",
+         "option B": "Presentation",
+         "option C": "Physical",
+         "option D": "Data Link",
+         "answer": "C"
+      }
+   ],
+   "167": [
+      {
+         "question": "Synchronization is an activity on the following layers except..................",
+         "option A": "Session",
+         "option B": "Data Link",
+         "option C": "Presentation",
+         "option D": "None of the Options",
+         "answer": "C"
+      }
+   ],
+   "168": [
+      {
+         "question": "...........................layer is the inteface between the model and end-users",
+         "option A": "Session",
+         "option B": "Physical",
+         "option C": "Application",
+         "option D": "Network",
+         "answer": "C"
+      }
+   ],
+   "169": [
+      {
+         "question": "Error control in carried out of the following layers except...................",
+         "option A": "Presentation",
+         "option B": "Transport",
+         "option C": "Network",
+         "option D": "Data Link",
+         "answer": "A"
+      }
+   ],
+   "170": [
+      {
+         "question": "Which of the following is not true about the internet",
+         "option A": "A network of networks",
+         "option B": "Started as ARPANET",
+         "option C": "Started in US Department of defense",
+         "option D": "None of the above",
+         "answer": "D"
+      }
+   ],
+   "171": [
+      {
+         "question": "ARPA represents",
+         "option A": "Advanced Research Projects Agency",
+         "option B": "Advanced Reach Projects Agency",
+         "option C": "Advanced Residents Projects Agency",
+         "option D": "Advanced Research Projects Agents",
+         "answer": "A"
+      }
+   ],
+   "172": [
+      {
+         "question": "The World Wide Web came into being in",
+         "option A": "1990",
+         "option B": "1991",
+         "option C": "1992",
+         "option D": "1997",
+         "answer": "B"
+      }
+   ],
+   "173": [
+      {
+         "question": "Who developed the internet",
+         "option A": "Isaac Newton",
+         "option B": "Tim Bernes-Lee",
+         "option C": "Bill Gates",
+         "option D": "Mark Zukaberg",
+         "answer": "B"
+      }
+   ],
+   "174": [
+      {
+         "question": "The internet works with which of the following major protocols",
+         "option A": "TCP/IP",
+         "option B": "TPP/IPC",
+         "option C": "PCT/PI",
+         "option D": "CPT/PI",
+         "answer": "A"
+      }
+   ],
+   "175": [
+      {
+         "question": "HTTP represents",
+         "option A": "HyperText protocol",
+         "option B": "Hypertext Transfer Protocol",
+         "option C": "Hyper Protocol",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "176": [
+      {
+         "question": "HTML represents",
+         "option A": "Hyper Text Markup Language",
+         "option B": "Hyper Markup Language",
+         "option C": "Higher Markup Language",
+         "option D": "None of the above",
+         "answer": "A"
+      }
+   ],
+   "177": [
+      {
+         "question": "URL represents",
+         "option A": "Universal Resource Locator",
+         "option B": "United Resource Locator",
+         "option C": "Uniform Resource Locator",
+         "option D": "None of the above",
+         "answer": "C"
+      }
+   ],
+   "178": [
+      {
+         "question": "Which of the following is an example of Browser",
+         "option A": "Microsoft Word",
+         "option B": "Corel Draw",
+         "option C": "Internet Explorer",
+         "option D": "Python",
+         "answer": "C"
+      }
+   ],
+   "179": [
+      {
+         "question": "Which of the following is an example of search engine",
+         "option A": "Microsoft Excel",
+         "option B": "Google",
+         "option C": "Apple",
+         "option D": "WWW",
+         "answer": "B"
+      }
+   ],
+   "180": [
+      {
+         "question": "URL can also represent",
+         "option A": "Web address",
+         "option B": "Search engine",
+         "option C": "Tool bar",
+         "option D": "None of the above",
+         "answer": "A"
+      }
+   ],
+   "181": [
+      {
+         "question": "Look at the following Top level dormains and state which of them represents a military site",
+         "option A": ".com",
+         "option B": ".edu",
+         "option C": ".org",
+         "option D": ".mil",
+         "answer": "D"
+      }
+   ],
+   "182": [
+      {
+         "question": "Which of the Top level domains below best applies to University website",
+         "option A": ".com",
+         "option B": ".edu",
+         "option C": ".org",
+         "option D": ".mil",
+         "answer": "B"
+      }
+   ],
+   "183": [
+      {
+         "question": "When establishing a website for commercial purposes, which of the following Top level domains best applies",
+         "option A": ".com",
+         "option B": ".edu",
+         "option C": ".org",
+         "option D": ".mil",
+         "answer": "A"
+      }
+   ],
+   "184": [
+      {
+         "question": "To establish a government website, which of the following Top level domain would you recommend",
+         "option A": ".biz",
+         "option B": ".int",
+         "option C": ".gov",
+         "option D": ".name",
+         "answer": "C"
+      }
+   ],
+   "185": [
+      {
+         "question": "The browser keeps track of the pages you�ve visited and saves them on your hard disk so they will load faster when you return to them. These saved files are stored where",
+         "option A": "RAM",
+         "option B": "ROM",
+         "option C": "Cache",
+         "option D": "Magnetic device",
+         "answer": "C"
+      }
+   ],
+   "186": [
+      {
+         "question": "Search engine databases are selected and built by Computer Robot Programs called",
+         "option A": "Spiders",
+         "option B": "Search rats",
+         "option C": "Bots",
+         "option D": "Quicknets",
+         "answer": "A"
+      }
+   ],
+   "187": [
+      {
+         "question": "When personal details of an innocent people are harvest by a third party so that they can be used for malicious purposes, is called",
+         "option A": "Personal theft",
+         "option B": "Identity theft",
+         "option C": "Institutional theft",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "188": [
+      {
+         "question": "In the world computing the brabch of philosophy that deals with determining what is right and wrong is called",
+         "option A": "Computer ethics",
+         "option B": "Computer forensics",
+         "option C": "Computer rights",
+         "option D": "None of the above",
+         "answer": "A"
+      }
+   ],
+   "189": [
+      {
+         "question": "Which of the following is/are an ethical behavior in computing",
+         "option A": "Use of computer to harm other people",
+         "option B": "Use of computer to steal",
+         "option C": "None of the above",
+         "option D": "All of the above",
+         "answer": "C"
+      }
+   ],
+   "190": [
+      {
+         "question": "Which of the following is NOT an example of antivirus",
+         "option A": "AVG",
+         "option B": "Avast",
+         "option C": "Norton",
+         "option D": "Microsoft word",
+         "answer": "D"
+      }
+   ],
+   "191": [
+      {
+         "question": "The idea of computer ethics was invented in what year",
+         "option A": "1950",
+         "option B": "1951",
+         "option C": "1952",
+         "option D": "1953",
+         "answer": "A"
+      }
+   ],
+   "192": [
+      {
+         "question": "The idea of computer ethics was invented by who",
+         "option A": "Professor Bill Harvard",
+         "option B": "Professor Nobert Weiner",
+         "option C": "Professor John Clijnton",
+         "option D": "Edward Newman",
+         "answer": "B"
+      }
+   ],
+   "193": [
+      {
+         "question": "Which of the following is NOT a main concern of computer ethics",
+         "option A": "Internet privacy",
+         "option B": "Cracking",
+         "option C": "Copyright Infringement",
+         "option D": "Entertainment",
+         "answer": "D"
+      }
+   ],
+   "194": [
+      {
+         "question": "Which of the following computer based programs is non-destructive",
+         "option A": "Virus",
+         "option B": "Worms",
+         "option C": "Trojan horse",
+         "option D": "Microsoft windows",
+         "answer": "D"
+      }
+   ],
+   "195": [
+      {
+         "question": "Which of the following is a primary architecture of the internet",
+         "option A": "Client-client architecture",
+         "option B": "Client-server architecture",
+         "option C": "Server-server architecture",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "196": [
+      {
+         "question": "Which of the following is NOT a type of protocol",
+         "option A": "TCP",
+         "option B": "IP",
+         "option C": "HTTP",
+         "option D": ".gov",
+         "answer": "D"
+      }
+   ],
+   "197": [
+      {
+         "question": "TCP represent a kind of protocol fully called",
+         "option A": "Transport Control Protocol",
+         "option B": "Transmission Control Protocol",
+         "option C": "Transfer Co-ordinating Protocol",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "198": [
+      {
+         "question": "WWW represents",
+         "option A": "Worldwide Network",
+         "option B": "World Wide Web",
+         "option C": "World Wide Internetwork",
+         "option D": "None of these",
+         "answer": "B"
+      }
+   ],
+   "199": [
+      {
+         "question": "IP is a popular protocol in computing; IP therefore represents",
+         "option A": "Information Protocol",
+         "option B": "Internet Protocol",
+         "option C": "Intercharge Protocol",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "200": [
+      {
+         "question": "ARPANET was a network that connected major computers at University of �����",
+         "option A": "University of California",
+         "option B": "University of Cambridge",
+         "option C": "University of Capetown",
+         "option D": "University of Connecticut",
+         "answer": "A"
+      }
+   ],
+   "201": [
+      {
+         "question": "The World Wide Web came into being in what year",
+         "option A": "1990",
+         "option B": "1992",
+         "option C": "1991",
+         "option D": "1995",
+         "answer": "C"
+      }
+   ],
+   "202": [
+      {
+         "question": "------------contains the basic software you need in order to find, retrieve, view and send information over the internet.",
+         "option A": "Browser",
+         "option B": "Internet retriever",
+         "option C": "Web page",
+         "option D": "None of the above",
+         "answer": "A"
+      }
+   ],
+   "203": [
+      {
+         "question": "Generally, any text that contains �links� to other text are called",
+         "option A": "Browser",
+         "option B": "Hypertext",
+         "option C": "URL",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "204": [
+      {
+         "question": "------------ is a term which describes sending data from a local computer to a remote computer",
+         "option A": "Download",
+         "option B": "Offload",
+         "option C": "Upload",
+         "option D": "Update",
+         "answer": "C"
+      }
+   ],
+   "205": [
+      {
+         "question": "------------- is aterm which describes copying data from a remote computer to a local computer",
+         "option A": "Update",
+         "option B": "Download",
+         "option C": "Offload",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "206": [
+      {
+         "question": "The beginning page of any website is called",
+         "option A": "First page",
+         "option B": "New page",
+         "option C": "Home page",
+         "option D": "None of the above",
+         "answer": "C"
+      }
+   ],
+   "207": [
+      {
+         "question": "What is the full meaning of ARPANET",
+         "option A": "Advanced Research Projects Agency Network",
+         "option B": "Advanced Residents Projects Agency Network",
+         "option C": "Advanced Research Projects Agents",
+         "option D": "Advanced Projects Agency Network",
+         "answer": "A"
+      }
+   ],
+   "208": [
+      {
+         "question": "------------- is a set of steps for solving a particular problem",
+         "option A": "Algorithm",
+         "option B": "Instruction",
+         "option C": "Approach",
+         "option D": "None of the above",
+         "answer": "A"
+      }
+   ],
+   "209": [
+      {
+         "question": "The property of algorithm which states that an algorithm must always terminate after a specific number of steps is called----------------------",
+         "option A": "Finiteness",
+         "option B": "Definiteness",
+         "option C": "None of the above",
+         "option D": "All of the above",
+         "answer": "A"
+      }
+   ],
+   "210": [
+      {
+         "question": "All of the following are properties of algorithm except",
+         "option A": "Finiteness",
+         "option B": "Definiteness",
+         "option C": "None of the above",
+         "option D": "All of the above",
+         "answer": "C"
+      }
+   ],
+   "211": [
+      {
+         "question": "A diagrammatic representation of flow of data/information through a processing system is called",
+         "option A": "New diagram",
+         "option B": "Program diagram",
+         "option C": "Flow chart",
+         "option D": "None of the above",
+         "answer": "C"
+      }
+   ],
+   "212": [
+      {
+         "question": "The rectangular symbol in a flowchart represents",
+         "option A": "Process",
+         "option B": "Flow",
+         "option C": "Decision",
+         "option D": "Offpage Connector",
+         "answer": "A"
+      }
+   ],
+   "213": [
+      {
+         "question": "The Diamond symbol in a Flowchart represents",
+         "option A": "Process",
+         "option B": "Flow",
+         "option C": "Decision",
+         "option D": "Offpage Connector",
+         "answer": "C"
+      }
+   ],
+   "214": [
+      {
+         "question": "The arrows in a Flowchart represents",
+         "option A": "Process",
+         "option B": "Flow",
+         "option C": "Decision",
+         "option D": "Offpage Connector",
+         "answer": "B"
+      }
+   ],
+   "215": [
+      {
+         "question": "The Circular symbol in a Flowchart represents",
+         "option A": "Input/output",
+         "option B": "Process",
+         "option C": "Terminal",
+         "option D": "Connector",
+         "answer": "D"
+      }
+   ],
+   "216": [
+      {
+         "question": "Connector symbol in a flow chart performs the following functions except",
+         "option A": "Connects from one page to another page",
+         "option B": "Connects from the bottom of the page to the top of the same page",
+         "option C": "None of the above",
+         "option D": "Connects an upward flow of more than 3 symbols",
+         "answer": "C"
+      }
+   ],
+   "217": [
+      {
+         "question": "Which of the following is not true about flow charts",
+         "option A": "All flow charts end with a terminal or a connection loop",
+         "option B": "The decision symbol has two exit points; these can be on the sides or the bottom and on one side",
+         "option C": "Flow chart symbols have an entry point on the top of the symbol with no other entry points",
+         "option D": "None of the above",
+         "answer": "D"
+      }
+   ],
+   "218": [
+      {
+         "question": "Which of the following is NOT an advantage of flow chart in computer programming",
+         "option A": "Supports coding of program",
+         "option B": "Supports efficient program maintenance",
+         "option C": "Communicates the program flow",
+         "option D": "None of the above",
+         "answer": "D"
+      }
+   ],
+   "219": [
+      {
+         "question": "State example(s) of algorithm",
+         "option A": "Flowchart",
+         "option B": "Pseudocode",
+         "option C": "Pseudocode",
+         "option D": "None of the above",
+         "answer": "C"
+      }
+   ],
+   "220": [
+      {
+         "question": "Identify a Search Engine out of the following options",
+         "option A": "Microsoft Excel",
+         "option B": "Google",
+         "option C": "Apple",
+         "option D": "WWW",
+         "answer": "B"
+      }
+   ],
+   "221": [
+      {
+         "question": "Which of the following is not a main concern of computer ethics",
+         "option A": "Internet privacy",
+         "option B": "Cracking",
+         "option C": "Copyright Infringement",
+         "option D": "Entertainment",
+         "answer": "D"
+      }
+   ],
+   "222": [
+      {
+         "question": "The property of algorithm which states that an algorithm must always terminate after a specific number of steps is called----------------------",
+         "option A": "Finiteness",
+         "option B": "Definiteness",
+         "option C": "None of the above",
+         "option D": "All of the above",
+         "answer": "A"
+      }
+   ],
+   "223": [
+      {
+         "question": "What is the full meaning of ARPANET",
+         "option A": "Advanced Research Projects Agency Network",
+         "option B": "Advanced Residents Projects Agency Network",
+         "option C": "Advanced Research Projects Agents",
+         "option D": "Advanced Projects Agency Network",
+         "answer": "A"
+      }
+   ],
+   "224": [
+      {
+         "question": "Who developed the internet",
+         "option A": "Isaac Newton",
+         "option B": "Tim Bernes-Lee",
+         "option C": "Bill Gates",
+         "option D": "Mark Zukaberg",
+         "answer": "B"
+      }
+   ],
+   "225": [
+      {
+         "question": "Which of the following is an example of Browser",
+         "option A": "Microsoft work",
+         "option B": "Corel Draw",
+         "option C": "Internet Explorer",
+         "option D": "Python",
+         "answer": "C"
+      }
+   ],
+   "226": [
+      {
+         "question": "HTML represents",
+         "option A": "HyperText Markup Language",
+         "option B": "Hyper Makeup Language",
+         "option C": "Higher Markup Language",
+         "option D": "None of the above",
+         "answer": "A"
+      }
+   ],
+   "227": [
+      {
+         "question": "Look at the following Top level domains and state which of them represents a military site",
+         "option A": ".com",
+         "option B": ".edu",
+         "option C": ".org",
+         "option D": ".mil",
+         "answer": "D"
+      }
+   ],
+   "228": [
+      {
+         "question": "A computer system is known for",
+         "option A": "Formulating instruction",
+         "option B": "Directing instruction",
+         "option C": "Executing Instruction",
+         "option D": "Formatting Instruction",
+         "answer": "C"
+      }
+   ],
+   "229": [
+      {
+         "question": "The first thing a computer does while it manipulates data is",
+         "option A": "Store the data",
+         "option B": "Take the data as input",
+         "option C": "Process the data",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "230": [
+      {
+         "question": "A computer cannot do the following",
+         "option A": "Store data",
+         "option B": "Process data",
+         "option C": "Take in data as input",
+         "option D": "None of the above",
+         "answer": "D"
+      }
+   ],
+   "231": [
+      {
+         "question": "One of the following could not be classified as part of a computer",
+         "option A": "Display unit",
+         "option B": "CPU",
+         "option C": "Storage unit",
+         "option D": "None of the above",
+         "answer": "D"
+      }
+   ],
+   "232": [
+      {
+         "question": "A program could be defined as",
+         "option A": "A formative instruction",
+         "option B": "A directed instruction",
+         "option C": "A formatted instruction",
+         "option D": "An executable instruction",
+         "answer": "D"
+      }
+   ],
+   "233": [
+      {
+         "question": "A computer can be classified based on the following except",
+         "option A": "Type of Data Processed",
+         "option B": "Age of technology",
+         "option C": "Meaning",
+         "option D": "Size",
+         "answer": "C"
+      }
+   ],
+   "234": [
+      {
+         "question": "Computer is classified on purpose based on",
+         "option A": "Special Purpose",
+         "option B": "General Purpose",
+         "option C": "All of the above",
+         "option D": "None of the above",
+         "answer": "C"
+      }
+   ],
+   "235": [
+      {
+         "question": "A classification of computer that combines the best qualities of digital and analog computers is",
+         "option A": "Joint computers",
+         "option B": "Specific computers",
+         "option C": "Hybrid computers",
+         "option D": "General computers",
+         "answer": "C"
+      }
+   ],
+   "236": [
+      {
+         "question": "The program for operating computer is stored in",
+         "option A": "RAM",
+         "option B": "ROM",
+         "option C": "CPU",
+         "option D": "Monitor",
+         "answer": "B"
+      }
+   ],
+   "237": [
+      {
+         "question": "A Computer that is known for representing data or information in discrete or discontinuous form is",
+         "option A": "Joint computer",
+         "option B": "Hybrid computer",
+         "option C": "Special Computer",
+         "option D": "Digital Computer",
+         "answer": "D"
+      }
+   ],
+   "238": [
+      {
+         "question": "The first programmable computer is",
+         "option A": "MAC engine",
+         "option B": "SUM engine",
+         "option C": "Product engine",
+         "option D": "Difference engine",
+         "answer": "D"
+      }
+   ],
+   "239": [
+      {
+         "question": "The name of the person that produced the first computer is",
+         "option A": "Pascal Blaise",
+         "option B": "Charles Babbage",
+         "option C": "Bill Gate",
+         "option D": "Mike Warren",
+         "answer": "B"
+      }
+   ],
+   "240": [
+      {
+         "question": "One of the following is the major characteristic of the first generation computer",
+         "option A": "Transistors",
+         "option B": "Integrated circuit",
+         "option C": "Vacuum tubes",
+         "option D": "All of the above",
+         "answer": "C"
+      }
+   ],
+   "241": [
+      {
+         "question": "The electronic switches that was used instead of electromechanical relays by first generation computers could also be termed as",
+         "option A": "Vacuum tubes",
+         "option B": "Integrated circuits",
+         "option C": "VLSI",
+         "option D": "Transistors",
+         "answer": "A"
+      }
+   ],
+   "242": [
+      {
+         "question": "The concept of Von Newman that made EDVAC more remarkable than ENIAC is",
+         "option A": "Speed",
+         "option B": "Accuracy",
+         "option C": "Stored program",
+         "option D": "None of the above",
+         "answer": "C"
+      }
+   ],
+   "243": [
+      {
+         "question": "The programming language that was applicable to the first generation computers is",
+         "option A": "High level language",
+         "option B": "Assembly language",
+         "option C": "Machine language",
+         "option D": "None of the above",
+         "answer": "C"
+      }
+   ],
+   "244": [
+      {
+         "question": "The remarkable feature of the second generation computers is",
+         "option A": "Transistors",
+         "option B": "Integrated circuit",
+         "option C": "Vacuum tubes",
+         "option D": "All of the above",
+         "answer": "A"
+      }
+   ],
+   "245": [
+      {
+         "question": "The type memory that was used by second generation computers is classified as",
+         "option A": "Magnetic Core",
+         "option B": "Solid base",
+         "option C": "Liquid State",
+         "option D": "Vacuum tubes",
+         "answer": "A"
+      }
+   ],
+   "246": [
+      {
+         "question": "Which of the following is not part of classification by size",
+         "option A": "Laptop computer",
+         "option B": "Mini computer",
+         "option C": "Super computer",
+         "option D": "Micro computer",
+         "answer": "A"
+      }
+   ],
+   "247": [
+      {
+         "question": "One of the following is part of the classification of computers by size",
+         "option A": "Desktop computers",
+         "option B": "Laptop computers",
+         "option C": "Mainframe computers",
+         "option D": "Palmtop computers",
+         "answer": "C"
+      }
+   ],
+   "248": [
+      {
+         "question": "Which generation of computers is characterized by the development of Integrated circuit",
+         "option A": "First",
+         "option B": "Second",
+         "option C": "Third",
+         "option D": "fourth",
+         "answer": "C"
+      }
+   ],
+   "249": [
+      {
+         "question": "One of the characteristics of fourth generation of computers is",
+         "option A": "VLSI",
+         "option B": "IC",
+         "option C": "LSI",
+         "option D": "Transistor",
+         "answer": "C"
+      }
+   ],
+   "250": [
+      {
+         "question": "Palmtop and desktop computers are examples of",
+         "option A": "Larger computers",
+         "option B": "Micro computers",
+         "option C": "Super computers",
+         "option D": "Mega computers",
+         "answer": "B"
+      }
+   ],
+   "251": [
+      {
+         "question": "Laptop and Tablet computers are examples of",
+         "option A": "Mega Computers",
+         "option B": "Mini computers",
+         "option C": "Super computers",
+         "option D": "Micro computers",
+         "answer": "D"
+      }
+   ],
+   "252": [
+      {
+         "question": "VLSI is a major characteristic of",
+         "option A": "Sixth generation",
+         "option B": "Fifth generation",
+         "option C": "Fourth generation",
+         "option D": "Third generation",
+         "answer": "C"
+      }
+   ],
+   "253": [
+      {
+         "question": "Which of the generation of computers were also characterized by SSI and MSI evolution",
+         "option A": "Sixth generation",
+         "option B": "Fifth generation",
+         "option C": "Fourth generation",
+         "option D": "Third generation",
+         "answer": "D"
+      }
+   ],
+   "254": [
+      {
+         "question": "Development of LAN is one of the advantages of",
+         "option A": "First generation",
+         "option B": "Second generation",
+         "option C": "Third generation",
+         "option D": "Fifth generation",
+         "answer": "D"
+      }
+   ],
+   "256": [
+      {
+         "question": "Mouse is part of computer",
+         "option A": "Software",
+         "option B": "Hardware",
+         "option C": "Applicationware",
+         "option D": "Partsware",
+         "answer": "B"
+      }
+   ],
+   "257": [
+      {
+         "question": "CPU stands for",
+         "option A": "Cost of Public Union",
+         "option B": "Central Processing Union",
+         "option C": "Cost of processing unit",
+         "option D": "None of the above",
+         "answer": "D"
+      }
+   ],
+   "258": [
+      {
+         "question": "RAM and ROM are examples of computer",
+         "option A": "Software",
+         "option B": "CPU",
+         "option C": "Memory",
+         "option D": "Monitor",
+         "answer": "C"
+      }
+   ],
+   "259": [
+      {
+         "question": "identify an output device from the options below",
+         "option A": "touch pen",
+         "option B": "speaker",
+         "option C": "keyboard",
+         "option D": "mouse",
+         "answer": "B"
+      }
+   ],
+   "260": [
+      {
+         "question": "identify an input device from the options below",
+         "option A": "printer",
+         "option B": "speaker",
+         "option C": "monitor",
+         "option D": "mouse",
+         "answer": "D"
+      }
+   ],
+   "261": [
+      {
+         "question": "Which group are output devices below",
+         "option A": "Mouse, printer, monitor",
+         "option B": "Printer, monitor, speaker",
+         "option C": "Keyboard, monitor, speaker",
+         "option D": "Speaker, mouse, printer",
+         "answer": "B"
+      }
+   ],
+   "262": [
+      {
+         "question": "ROM stands for",
+         "option A": "Random output means",
+         "option B": "Random Access Memory",
+         "option C": "Read out memory",
+         "option D": "Read only memory",
+         "answer": "D"
+      }
+   ],
+   "263": [
+      {
+         "question": "RAM stands for",
+         "option A": "Random output means",
+         "option B": "Random Access Memory",
+         "option C": "Read out memory",
+         "option D": "Read only memory",
+         "answer": "B"
+      }
+   ],
+   "264": [
+      {
+         "question": "One of these is not an input device",
+         "option A": "Mouse",
+         "option B": "Keyboard",
+         "option C": "Scanner",
+         "option D": "printer",
+         "answer": "D"
+      }
+   ],
+   "265": [
+      {
+         "question": "CPU can be found in",
+         "option A": "System unit",
+         "option B": "Display unit",
+         "option C": "Keyboard",
+         "option D": "mouse",
+         "answer": "A"
+      }
+   ],
+   "266": [
+      {
+         "question": "which of these is a characteristics of first generation computers",
+         "option A": "very large and consume spaces",
+         "option B": "very small and can be carried on hand",
+         "option C": "multitasking",
+         "option D": "parallelism",
+         "answer": "A"
+      }
+   ],
+   "267": [
+      {
+         "question": "SSI as associated with generation of computers is an acronym for",
+         "option A": "Small scale integration",
+         "option B": "Small sectional interpretation",
+         "option C": "Solid state interface",
+         "option D": "Solid statue interface",
+         "answer": "A"
+      }
+   ],
+   "268": [
+      {
+         "question": "MSI as associated with generation of computers is an acronym for",
+         "option A": "Meddle section interpretation",
+         "option B": "Middle sectional interpretation",
+         "option C": "Medium scale integration",
+         "option D": "Most scalable interpretation",
+         "answer": "C"
+      }
+   ],
+   "269": [
+      {
+         "question": "VLSI is a major characteristic of",
+         "option A": "Sixth generation",
+         "option B": "Fifth generation",
+         "option C": "Fourth generation",
+         "option D": "Third generation",
+         "answer": "B"
+      }
+   ],
+   "270": [
+      {
+         "question": "Laptop and Tablet computers are examples of",
+         "option A": "Mega Computers",
+         "option B": "Super computers",
+         "option C": "Micro computers",
+         "option D": "Mini computers",
+         "answer": "C"
+      }
+   ],
+   "271": [
+      {
+         "question": "High level languages were first introduced first in the",
+         "option A": "First generation computers",
+         "option B": "Fifth generation computers",
+         "option C": "Fourth generation computers",
+         "option D": "Second generation computers",
+         "answer": "D"
+      }
+   ],
+   "272": [
+      {
+         "question": "Assembly language is an example of",
+         "option A": "High level language",
+         "option B": "Highest level language",
+         "option C": "Low level language",
+         "option D": "None of the above",
+         "answer": "C"
+      }
+   ],
+   "273": [
+      {
+         "question": "Parallelism is a characteristic of",
+         "option A": "First generation computers",
+         "option B": "Second generation computers",
+         "option C": "Third generation computers",
+         "option D": "Fifth generation",
+         "answer": "D"
+      }
+   ],
+   "274": [
+      {
+         "question": "USB as a connective port of computer stands for",
+         "option A": "United State of Base",
+         "option B": "Universal section boundary",
+         "option C": "Universal Serial Bus",
+         "option D": "Union Section Bus",
+         "answer": "C"
+      }
+   ],
+   "275": [
+      {
+         "question": "Computer is classified on size based on",
+         "option A": "Mini computers",
+         "option B": "Micro computers",
+         "option C": "All of the above",
+         "option D": "None of the above",
+         "answer": "C"
+      }
+   ],
+   "276": [
+      {
+         "question": "Which of these is not among classification of computers by generation",
+         "option A": "Fifth",
+         "option B": "First",
+         "option C": "Half",
+         "option D": "Second",
+         "answer": "C"
+      }
+   ],
+   "277": [
+      {
+         "question": "Which of these are group of input devices",
+         "option A": "Camera, mouse, scanner",
+         "option B": "Mouse, keyboard, printer",
+         "option C": "Keyboard, light pen, projector",
+         "option D": "Mouse, keyboard, monitor",
+         "answer": "A"
+      }
+   ],
+   "278": [
+      {
+         "question": "Which of these cannot be classified as part of a computer system",
+         "option A": "Mouse",
+         "option B": "Printer",
+         "option C": "Scanner",
+         "option D": "CUP",
+         "answer": "D"
+      }
+   ],
+   "279": [
+      {
+         "question": "Fortran and COBOL are examples of",
+         "option A": "High level language",
+         "option B": "Low level language",
+         "option C": "All of the above",
+         "option D": "None of the above",
+         "answer": "A"
+      }
+   ],
+   "280": [
+      {
+         "question": "Computer software is basically - and - required to perform specific tasks on a system.",
+         "option A": "Programs and procedure",
+         "option B": "Operations and programs",
+         "option C": "Systems and procedure",
+         "option D": "procedure and operations",
+         "answer": "A"
+      }
+   ],
+   "281": [
+      {
+         "question": "Computer languages include",
+         "option A": "Low-level, medium and Assembly Languages",
+         "option B": "Low, Assembly and High Level languages",
+         "option C": "Assembly, Low-level and Machine Languages",
+         "option D": "Low, High and Medium Languages",
+         "answer": "B"
+      }
+   ],
+   "282": [
+      {
+         "question": "One of the following is NOT a system software",
+         "option A": "Device drivers",
+         "option B": "Software components",
+         "option C": "System components",
+         "option D": "Operating systems",
+         "answer": "C"
+      }
+   ],
+   "283": [
+      {
+         "question": "Programming software helps writing programs through the following EXCEPT",
+         "option A": "Compilers",
+         "option B": "Linkers",
+         "option C": "Deboggers",
+         "option D": "Editors",
+         "answer": "C"
+      }
+   ],
+   "284": [
+      {
+         "question": "Class of software that is used for solving specific tasks is generally termed as",
+         "option A": "Specific-task software",
+         "option B": "Microsoft suite",
+         "option C": "Enterprise software",
+         "option D": "Application software",
+         "answer": "D"
+      }
+   ],
+   "285": [
+      {
+         "question": "Microsoft Access is an example of a",
+         "option A": "Multimedia software",
+         "option B": "Database software",
+         "option C": "Presentation software",
+         "option D": "Simulation software",
+         "answer": "B"
+      }
+   ],
+   "286": [
+      {
+         "question": "Customer relationship management system is an example of a",
+         "option A": "Multimedia software",
+         "option B": "Enterprise software",
+         "option C": "Management software",
+         "option D": "Simulation software",
+         "answer": "B"
+      }
+   ],
+   "287": [
+      {
+         "question": "Encarta is an example of",
+         "option A": "Educational software",
+         "option B": "Multimedia software",
+         "option C": "Application suite",
+         "option D": "Presentation software",
+         "answer": "A"
+      }
+   ],
+   "288": [
+      {
+         "question": "Software used to manipulate text, graphics and numbers are known as",
+         "option A": "Editing software",
+         "option B": "Debuggers",
+         "option C": "Application software",
+         "option D": "Graphic software",
+         "answer": "C"
+      }
+   ],
+   "289": [
+      {
+         "question": "Applications that provide a collection of documents and graphic illustrations including clip art drawings, diagrams, diagrams and photos",
+         "option A": "Graphic applications",
+         "option B": "Drawing applications",
+         "option C": "Microsoft suite",
+         "option D": "Web-based applications",
+         "answer": "D"
+      }
+   ],
+   "290": [
+      {
+         "question": "Class of application that can be used to organize, analyze and chart numerical data such as financial reports is known as",
+         "option A": "Microsoft Excel",
+         "option B": "Corel Quattro Pro",
+         "option C": "Spreadsheet",
+         "option D": "Lotus 1-2-3",
+         "answer": "C"
+      }
+   ],
+   "291": [
+      {
+         "question": "A collection of relational data is known as",
+         "option A": "Information",
+         "option B": "Database",
+         "option C": "Files",
+         "option D": "Document",
+         "answer": "B"
+      }
+   ],
+   "292": [
+      {
+         "question": "SQL means",
+         "option A": "Structured Quality Labels",
+         "option B": "System Query Language",
+         "option C": "System Quality Labels",
+         "option D": "Structured Query Language",
+         "answer": "D"
+      }
+   ],
+   "293": [
+      {
+         "question": "DBMS means",
+         "option A": "Database Management Software",
+         "option B": "Database Manipulating System",
+         "option C": "Database Manager System",
+         "option D": "Database Management System",
+         "answer": "D"
+      }
+   ],
+   "294": [
+      {
+         "question": "One of the following best describes a malware",
+         "option A": "Intrusive",
+         "option B": "free",
+         "option C": "downloadable",
+         "option D": "cheap",
+         "answer": "A"
+      }
+   ],
+   "295": [
+      {
+         "question": "Software that comes with a demo version is known as",
+         "option A": "Malware",
+         "option B": "Shareware",
+         "option C": "Spyware",
+         "option D": "Commercial software",
+         "answer": "D"
+      }
+   ],
+   "296": [
+      {
+         "question": "Whatsapp is an example of",
+         "option A": "Malware",
+         "option B": "Chatware",
+         "option C": "Shareware",
+         "option D": "Adware",
+         "answer": "C"
+      }
+   ],
+   "297": [
+      {
+         "question": "Trojan horses, worms and viruses are examples of",
+         "option A": "Malware",
+         "option B": "Nagware",
+         "option C": "Shareware",
+         "option D": "Adware",
+         "answer": "A"
+      }
+   ],
+   "298": [
+      {
+         "question": "Norton internet security suite and the antivirus system are examples of",
+         "option A": "Malware suite",
+         "option B": "Utility suite",
+         "option C": "Shareware suite",
+         "option D": "Adware suite",
+         "answer": "B"
+      }
+   ],
+   "299": [
+      {
+         "question": "Computer softwares can be classified as",
+         "option A": "Programming and graphics",
+         "option B": "Editors and debuggers",
+         "option C": "System and application",
+         "option D": "Application and programming",
+         "answer": "C"
+      }
+   ],
+   "300": [
+      {
+         "question": "Computer data is transmitted block by block in transmission known as ..................",
+         "option A": "synchronous",
+         "option B": "digital",
+         "option C": "asynchronous",
+         "option D": "analog",
+         "answer": "A"
+      }
+   ],
+   "301": [
+      {
+         "question": "In computer, which of the following is a communication media?",
+         "option A": "all of these",
+         "option B": "standard telephone lines",
+         "option C": "coaxial cables",
+         "option D": "microwave transmission",
+         "answer": "A"
+      }
+   ],
+   "302": [
+      {
+         "question": "In computer, converting a digital signal in to an analog signal is called",
+         "option A": "modulation",
+         "option B": "demodulation",
+         "option C": "conversion",
+         "option D": "transformation",
+         "answer": "A"
+      }
+   ],
+   "303": [
+      {
+         "question": "Signals generated by a operating system to send it over phone line must be further converted into a",
+         "option A": "AC signal",
+         "option B": "analog signal",
+         "option C": "digital signal",
+         "option D": "microwave",
+         "answer": "B"
+      }
+   ],
+   "304": [
+      {
+         "question": "In computer, process of superimposing a low frequency signal over a high frequency signal is called",
+         "option A": "modulation",
+         "option B": "demodulation",
+         "option C": "conversion",
+         "option D": "transformation",
+         "answer": "A"
+      }
+   ],
+   "305": [
+      {
+         "question": "Software application which is used for retrieving, presenting and traversing information resources on World Wide Web is called",
+         "option A": "gateway",
+         "option B": "EFT",
+         "option C": "browser",
+         "option D": "teleconferencing",
+         "answer": "C"
+      }
+   ],
+   "306": [
+      {
+         "question": "Layers present in a computer OSI model are",
+         "option A": "4",
+         "option B": "5",
+         "option C": "6",
+         "option D": "7",
+         "answer": "D"
+      }
+   ],
+   "307": [
+      {
+         "question": "Collection of documents stored in a computer which is permanently connected with internet around world is called",
+         "option A": "Telnet",
+         "option B": "WWW",
+         "option C": "FTP",
+         "option D": "LAN",
+         "answer": "B"
+      }
+   ],
+   "308": [
+      {
+         "question": "A node which is represented in a computer network topology is basically a",
+         "option A": "computer",
+         "option B": "hub",
+         "option C": "hardware",
+         "option D": "printer",
+         "answer": "A"
+      }
+   ],
+   "309": [
+      {
+         "question": "Key element of a computer protocol is",
+         "option A": "syntax",
+         "option B": "semantic",
+         "option C": "timing",
+         "option D": "all of these",
+         "answer": "D"
+      }
+   ],
+   "310": [
+      {
+         "question": "Which of following is a computer internet protocol?",
+         "option A": "IEEE 802.2",
+         "option B": "IEEE 802.3",
+         "option C": "TCP/IP",
+         "option D": "MAC",
+         "answer": "C"
+      }
+   ],
+   "311": [
+      {
+         "question": "Computer software which combines audio and video application sharing is known as",
+         "option A": "teleconferencing software",
+         "option B": "data sharing software",
+         "option C": "project sharing software",
+         "option D": "utility software",
+         "answer": "A"
+      }
+   ],
+   "312": [
+      {
+         "question": "Topology which takes more cable than e.g. a bus, but benefit is that if a cable fails, only one node will be brought down is",
+         "option A": "bus topology",
+         "option B": "ring topology",
+         "option C": "star topology",
+         "option D": "mesh topology",
+         "answer": "D"
+      }
+   ],
+   "313": [
+      {
+         "question": "Which of following is not a benefit of a computer network?",
+         "option A": "connect people",
+         "option B": "reduce hardware cost",
+         "option C": "produce high quality programs",
+         "option D": "enable shared applications",
+         "answer": "C"
+      }
+   ],
+   "314": [
+      {
+         "question": "In computer, ISO stands for",
+         "option A": "international standards organization",
+         "option B": "independent system operator",
+         "option C": "international students organization",
+         "option D": "infrared space observatory",
+         "answer": "A"
+      }
+   ],
+   "315": [
+      {
+         "question": "Which of following is not a computer LAN topology?",
+         "option A": "bus",
+         "option B": "band",
+         "option C": "star",
+         "option D": "ring",
+         "answer": "B"
+      }
+   ],
+   "316": [
+      {
+         "question": "Main purpose of computer network is............",
+         "option A": "file sharing",
+         "option B": "hard disk sharing",
+         "option C": "printer sharing",
+         "option D": "all of these",
+         "answer": "D"
+      }
+   ],
+   "317": [
+      {
+         "question": "Transferring information from a computer to internet is called",
+         "option A": "downloading",
+         "option B": "down sizing",
+         "option C": "pasting",
+         "option D": "uploading",
+         "answer": "C"
+      }
+   ],
+   "318": [
+      {
+         "question": "Bottom layer of computer OSI model is...............",
+         "option A": "physical",
+         "option B": "data link",
+         "option C": "network",
+         "option D": "application",
+         "answer": "A"
+      }
+   ],
+   "319": [
+      {
+         "question": "Top most layer of computer OSI model is..........",
+         "option A": "application",
+         "option B": "transport",
+         "option C": "session",
+         "option D": "presentation",
+         "answer": "A"
+      }
+   ],
+   "320": [
+      {
+         "question": "Layer of computer OSI model which furnishes electrical connections and signaling is known as........",
+         "option A": "application",
+         "option B": "physical",
+         "option C": "session",
+         "option D": "network",
+         "answer": "B"
+      }
+   ],
+   "321": [
+      {
+         "question": "In computer, FTP facility is used to.......",
+         "option A": "transfer protocol",
+         "option B": "transfer file",
+         "option C": "connect to internet",
+         "option D": "check PC",
+         "answer": "D"
+      }
+   ],
+   "322": [
+      {
+         "question": "If a computer in a network shares resources which can be accessed by other computers it is called a................",
+         "option A": "server",
+         "option B": "client",
+         "option C": "sender",
+         "option D": "all of these",
+         "answer": "A"
+      }
+   ],
+   "323": [
+      {
+         "question": "In computer, FTP stands for...............",
+         "option A": "file transfer protocol",
+         "option B": "finding tele path",
+         "option C": "final transmission program",
+         "option D": "file transfer process",
+         "answer": "A"
+      }
+   ],
+   "324": [
+      {
+         "question": "Layer of computer OSI model which performs data compression is.............",
+         "option A": "network",
+         "option B": "data link",
+         "option C": "presentation",
+         "option D": "physical",
+         "answer": "C"
+      }
+   ],
+   "325": [
+      {
+         "question": "ISO developed a standard model of computer data communication system which is known as......",
+         "option A": "OSI",
+         "option B": "ANSI",
+         "option C": "SNA",
+         "option D": "DEC",
+         "answer": "A"
+      }
+   ],
+   "326": [
+      {
+         "question": "Layer of computer OSI model which is concerned with addressing and routing is called................",
+         "option A": "network",
+         "option B": "data link",
+         "option C": "physical",
+         "option D": "transport",
+         "answer": "A"
+      }
+   ],
+   "327": [
+      {
+         "question": "Interconnection which is present between two or more computers so that they can communicate with each other is called..............",
+         "option A": "network",
+         "option B": "sharing",
+         "option C": "link",
+         "option D": "LAN",
+         "answer": "A"
+      }
+   ],
+   "328": [
+      {
+         "question": "OSI stands for...............",
+         "option A": "Open System internals",
+         "option B": "Open System international",
+         "option C": "Open System interconnectio",
+         "option D": "Organization Standard International",
+         "answer": "C"
+      }
+   ],
+   "329": [
+      {
+         "question": "Framing is an activity at the.................layer of the OSI",
+         "option A": "network",
+         "option B": "application",
+         "option C": "physical",
+         "option D": "data link",
+         "answer": "D"
+      }
+   ],
+   "330": [
+      {
+         "question": "The following are advantages of social media except.........",
+         "option A": "Sharing",
+         "option B": "Socialization",
+         "option C": "Cyberstalking",
+         "option D": "Crowdsourcing",
+         "answer": "C"
+      }
+   ],
+   "331": [
+      {
+         "question": "The following are examples of social media platform except.............",
+         "option A": "Google",
+         "option B": "Google+",
+         "option C": "Facebook",
+         "option D": "Telegram",
+         "answer": "A"
+      }
+   ],
+   "332": [
+      {
+         "question": "The path through which signal will be sent between two nodes is determined at the..............layer",
+         "option A": "Physical",
+         "option B": "Logical",
+         "option C": "Transport",
+         "option D": "Ntwork",
+         "answer": "D"
+      }
+   ],
+   "333": [
+      {
+         "question": "Conversion of bit into electrical or optical signals is the carried out at the ........layer",
+         "option A": "Data Link",
+         "option B": "Physical",
+         "option C": "Application",
+         "option D": "Transport",
+         "answer": "B"
+      }
+   ],
+   "334": [
+      {
+         "question": ".................layer performs the role of translator",
+         "option A": "Presentation",
+         "option B": "Session",
+         "option C": "Physical",
+         "option D": "Data Link",
+         "answer": "A"
+      }
+   ],
+   "335": [
+      {
+         "question": "The following are transmission modes except...............",
+         "option A": "Duplex",
+         "option B": "Quarter Duplex",
+         "option C": "Half Duplex",
+         "option D": "Simplex",
+         "answer": "B"
+      }
+   ],
+   "336": [
+      {
+         "question": "Routers and gateways are devices found on the ......................layer of the OSI model",
+         "option A": "Physical",
+         "option B": "Session",
+         "option C": "Presentation",
+         "option D": "None of the above",
+         "answer": "D"
+      }
+   ],
+   "337": [
+      {
+         "question": "Service point addrressing is one of the role of which layer?",
+         "option A": "Session layer",
+         "option B": "Transport layer",
+         "option C": "Data Link layer",
+         "option D": "Network layer",
+         "answer": "B"
+      }
+   ],
+   "338": [
+      {
+         "question": "Mechanism used by the session layer to prevent two parties from attempting the same critical operation at the same time is called .......",
+         "option A": "Operation management",
+         "option B": "Access management",
+         "option C": "Token management",
+         "option D": "None of the options",
+         "answer": "C"
+      }
+   ],
+   "339": [
+      {
+         "question": "The following activities are executed at the presentation layer except............",
+         "option A": "Encryption",
+         "option B": "Decryption",
+         "option C": "Compression",
+         "option D": "Framing",
+         "answer": "C"
+      }
+   ],
+   "340": [
+      {
+         "question": "The following are protocols on the Application layer except.......................",
+         "option A": "HTTP",
+         "option B": "FTP",
+         "option C": "UDP",
+         "option D": "BNS",
+         "answer": "C"
+      }
+   ],
+   "341": [
+      {
+         "question": "Which of the following is not the function of the Application Layer?",
+         "option A": "None of the Options",
+         "option B": "Directory Services",
+         "option C": "Mail Services",
+         "option D": "Network Virtual Terminal",
+         "answer": "A"
+      }
+   ],
+   "342": [
+      {
+         "question": "SMTP stands for ...........",
+         "option A": "Systemic Mail Transfer Protocol",
+         "option B": "Simple Mail Transport Protocol",
+         "option C": "Simple Mail Transfer Protocol",
+         "option D": "Systemic Mail Transmition Protocol",
+         "answer": "C"
+      }
+   ],
+   "343": [
+      {
+         "question": "Which of the following is not a protocol in Layer 3 of the OSI model?",
+         "option A": "Open Shortest Path First",
+         "option B": "Internet Protocol Version 6",
+         "option C": "Exterior Gateway Protocol",
+         "option D": "Border Gateway Protocol",
+         "answer": "D"
+      }
+   ],
+   "344": [
+      {
+         "question": "The two types of connection control on the transport layer are...................................",
+         "option A": "Connectionless and Connection-Oriented TL",
+         "option B": "Active and Passive TL",
+         "option C": "Direct and Indirect TL",
+         "option D": "None of the options",
+         "answer": "A"
+      }
+   ],
+   "345": [
+      {
+         "question": "Bluetooth and Infrared operates on which layer of the OSI-model?",
+         "option A": "Transport",
+         "option B": "Physical",
+         "option C": "Application",
+         "option D": "Session",
+         "answer": "B"
+      }
+   ],
+   "346": [
+      {
+         "question": "Voltages and Baud rate needed for transmission is defined on the...........layer",
+         "option A": "Network",
+         "option B": "Presentation",
+         "option C": "Data Link",
+         "option D": "Physical",
+         "answer": "D"
+      }
+   ],
+   "347": [
+      {
+         "question": "Synchronization is an activity on the following layers except..................",
+         "option A": "Session",
+         "option B": "Data Link",
+         "option C": "Presentation",
+         "option D": "None of the Options",
+         "answer": "C"
+      }
+   ],
+   "348": [
+      {
+         "question": "...........................layer is the inteface between the model and end-users",
+         "option A": "Session",
+         "option B": "Physical",
+         "option C": "Application",
+         "option D": "Network",
+         "answer": "C"
+      }
+   ],
+   "349": [
+      {
+         "question": "Error control in carried out of the following layers except...................",
+         "option A": "Presentation",
+         "option B": "Transport",
+         "option C": "Network",
+         "option D": "Data Link",
+         "answer": "A"
+      }
+   ],
+   "350": [
+      {
+         "question": "Which of the following is not true about the internet",
+         "option A": "A network of networks",
+         "option B": "Started as ARPANET",
+         "option C": "Started in US Department of defense",
+         "option D": "None of the above",
+         "answer": "D"
+      }
+   ],
+   "351": [
+      {
+         "question": "ARPA represents",
+         "option A": "Advanced Research Projects Agency",
+         "option B": "Advanced Reach Projects Agency",
+         "option C": "Advanced Residents Projects Agency",
+         "option D": "Advanced Research Projects Agents",
+         "answer": "A"
+      }
+   ],
+   "352": [
+      {
+         "question": "The World Wide Web came into being in",
+         "option A": "1990",
+         "option B": "1991",
+         "option C": "1992",
+         "option D": "1993",
+         "answer": "B"
+      }
+   ],
+   "353": [
+      {
+         "question": "Who developed the internet",
+         "option A": "Isaac Newton",
+         "option B": "Tim Bernes-Lee",
+         "option C": "Mark Zukaberg",
+         "option D": "Bill Gates",
+         "answer": "B"
+      }
+   ],
+   "354": [
+      {
+         "question": "The internet works with which of the following major protocols",
+         "option A": "TCP/IP",
+         "option B": "TPP/IPC",
+         "option C": "PCT/PI",
+         "option D": "CPT/PI",
+         "answer": "A"
+      }
+   ],
+   "355": [
+      {
+         "question": "HTTP represents",
+         "option A": "HyperText protocol",
+         "option B": "Hypertext Transfer Protocol",
+         "option C": "Hyper Protocol",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "356": [
+      {
+         "question": "HTML represents",
+         "option A": "Hyper Text Markup Language",
+         "option B": "Hyper Markup Language",
+         "option C": "Higher Markup Language",
+         "option D": "None of the above",
+         "answer": "A"
+      }
+   ],
+   "357": [
+      {
+         "question": "URL represents",
+         "option A": "United Resource Locator",
+         "option B": "Universal Resource Locator",
+         "option C": "Uniform Resource Locator",
+         "option D": "None of the above",
+         "answer": "C"
+      }
+   ],
+   "358": [
+      {
+         "question": "Which of the following is an example of Browser",
+         "option A": "Microsoft Word",
+         "option B": "Corel Draw",
+         "option C": "Internet Explorer",
+         "option D": "Python",
+         "answer": "C"
+      }
+   ],
+   "359": [
+      {
+         "question": "Which of the following is an example of search engine",
+         "option A": "Microsoft Excel",
+         "option B": "Google",
+         "option C": "Apple",
+         "option D": "WWW",
+         "answer": "B"
+      }
+   ],
+   "360": [
+      {
+         "question": "URL can also represent",
+         "option A": "Web address",
+         "option B": "Tool bar",
+         "option C": "Search engine",
+         "option D": "None of the above",
+         "answer": "A"
+      }
+   ],
+   "361": [
+      {
+         "question": "Look at the following Top level dormains and state which of them represents a military site",
+         "option A": ".com",
+         "option B": ".org",
+         "option C": ".edu",
+         "option D": ".mil",
+         "answer": "D"
+      }
+   ],
+   "362": [
+      {
+         "question": "Which of the Top level domains below best applies to University website",
+         "option A": ".com",
+         "option B": ".edu",
+         "option C": ".org",
+         "option D": ".mil",
+         "answer": "B"
+      }
+   ],
+   "363": [
+      {
+         "question": "When establishing a website for commercial purposes, which of the following Top level domains best applies",
+         "option A": ".com",
+         "option B": ".edu",
+         "option C": ".org",
+         "option D": ".mil",
+         "answer": "A"
+      }
+   ],
+   "364": [
+      {
+         "question": "To establish a government website, which of the following Top level domain would you recommend",
+         "option A": ".int",
+         "option B": ".biz",
+         "option C": ".gov",
+         "option D": ".name",
+         "answer": "C"
+      }
+   ],
+   "365": [
+      {
+         "question": "The browser keeps track of the pages you�ve visited and saves them on your hard disk so they will load faster when you return to them. These saved files are stored where",
+         "option A": "RAM",
+         "option B": "ROM",
+         "option C": "Cache",
+         "option D": "Magnetic device",
+         "answer": "C"
+      }
+   ],
+   "366": [
+      {
+         "question": "Search engine databases are selected and built by Computer Robot Programs called",
+         "option A": "Spiders",
+         "option B": "Search rats",
+         "option C": "Quicknets",
+         "option D": "Bots",
+         "answer": "A"
+      }
+   ],
+   "367": [
+      {
+         "question": "When personal details of an innocent people are harvest by a third party so that they can be used for malicious purposes, is called",
+         "option A": "Personal theft",
+         "option B": "Identity theft",
+         "option C": "Institutional theft",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "368": [
+      {
+         "question": "In the world computing the brabch of philosophy that deals with determining what is right and wrong is called;",
+         "option A": "Computer ethics",
+         "option B": "Computer rights",
+         "option C": "Computer forensics",
+         "option D": "None of the above",
+         "answer": "A"
+      }
+   ],
+   "369": [
+      {
+         "question": "Which of the following is/are an ethical behavior in computing",
+         "option A": "Use of computer to steal",
+         "option B": "Use of computer to harm other people",
+         "option C": "None of the above",
+         "option D": "All of the above",
+         "answer": "C"
+      }
+   ],
+   "370": [
+      {
+         "question": "Which of the following is NOT an example of antivirus",
+         "option A": "AVG",
+         "option B": "Avast",
+         "option C": "Norton",
+         "option D": "Microsft Word",
+         "answer": "D"
+      }
+   ],
+   "371": [
+      {
+         "question": "The idea of computer ethics was invented in what year",
+         "option A": "1950",
+         "option B": "1951",
+         "option C": "1952",
+         "option D": "1953",
+         "answer": "A"
+      }
+   ],
+   "372": [
+      {
+         "question": "The idea of computer ethics was invented by who",
+         "option A": "Professor Bill Harvard",
+         "option B": "Professor Nobert Weiner",
+         "option C": "Professor John Clijnton",
+         "option D": "Edward Newman",
+         "answer": "B"
+      }
+   ],
+   "373": [
+      {
+         "question": "Which of the following is NOT a main concern of computer ethics",
+         "option A": "Internet privacy",
+         "option B": "Cracking",
+         "option C": "Copyright Infringement",
+         "option D": "Entertainment",
+         "answer": "D"
+      }
+   ],
+   "374": [
+      {
+         "question": "Which of the following computer based programs is non-destructive",
+         "option A": "Virus",
+         "option B": "Worms",
+         "option C": "Trojan horse",
+         "option D": "Microsoft windows",
+         "answer": "D"
+      }
+   ],
+   "375": [
+      {
+         "question": "Which of the following is a primary architecture of the internet",
+         "option A": "Client-client architecture",
+         "option B": "Client-server architecture",
+         "option C": "Server-server architecture",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "376": [
+      {
+         "question": "Which of the following is NOT a type of protocol",
+         "option A": "TCP",
+         "option B": "IP",
+         "option C": "HTTP",
+         "option D": ".gov",
+         "answer": "D"
+      }
+   ],
+   "377": [
+      {
+         "question": "TCP represent a kind of protocol fully called",
+         "option A": "Transport Control Protocol",
+         "option B": "Transmission Control Protocol",
+         "option C": "Transfer Co-ordinating Protocol",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "378": [
+      {
+         "question": "WWW represents",
+         "option A": "Worldwide Network",
+         "option B": "World Wide Web",
+         "option C": "World Wide Internetwork",
+         "option D": "None of these",
+         "answer": "B"
+      }
+   ],
+   "379": [
+      {
+         "question": "IP is a popular protocol in computing; IP therefore represents",
+         "option A": "Information Protocol",
+         "option B": "Internet Protocol",
+         "option C": "Intercharge Protocol",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "380": [
+      {
+         "question": "ARPANET was a network that connected major computers at University of �����",
+         "option A": "University of California",
+         "option B": "University of Cambridge",
+         "option C": "University of Capetown",
+         "option D": "University of Connecticut",
+         "answer": "A"
+      }
+   ],
+   "381": [
+      {
+         "question": "The World Wide Web came into being in what year",
+         "option A": "1990",
+         "option B": "1991",
+         "option C": "1992",
+         "option D": "1995",
+         "answer": "B"
+      }
+   ],
+   "382": [
+      {
+         "question": "------------contains the basic software you need in order to find, retrieve, view and send information over the internet.",
+         "option A": "Browser",
+         "option B": "Web page",
+         "option C": "Internet retriever",
+         "option D": "None of the above",
+         "answer": "A"
+      }
+   ],
+   "383": [
+      {
+         "question": "Generally, any text that contains �links� to other text are called",
+         "option A": "Browser",
+         "option B": "Hypertext",
+         "option C": "URL",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "384": [
+      {
+         "question": "------------ is a term which describes sending data from a local computer to a remote computer",
+         "option A": "Download",
+         "option B": "Offload",
+         "option C": "Update",
+         "option D": "Upload",
+         "answer": "D"
+      }
+   ],
+   "385": [
+      {
+         "question": "------------- is aterm which describes copying data from a remote computer to a local computer",
+         "option A": "Update",
+         "option B": "Download",
+         "option C": "Offload",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "386": [
+      {
+         "question": "The beginning page of any website is called",
+         "option A": "First page",
+         "option B": "New page",
+         "option C": "Home page",
+         "option D": "None of the above",
+         "answer": "C"
+      }
+   ],
+   "387": [
+      {
+         "question": "What is the full meaning of ARPANET",
+         "option A": "Advanced Research Projects Agency Network",
+         "option B": "Advanced Residents Projects Agency Network",
+         "option C": "Advanced Research Projects Agents",
+         "option D": "Advanced Projects Agency Network",
+         "answer": "A"
+      }
+   ],
+   "388": [
+      {
+         "question": "The World Wide Web come in being in",
+         "option A": "1984",
+         "option B": "1995",
+         "option C": "1991",
+         "option D": "None of the above",
+         "answer": "C"
+      }
+   ],
+   "389": [
+      {
+         "question": "The Internet was developed by",
+         "option A": "Bill Gates",
+         "option B": "Tim Bernes-Lee",
+         "option C": "Alan Turning",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "390": [
+      {
+         "question": "------------- is a set of steps for solving a particular problem",
+         "option A": "Instruction",
+         "option B": "Algorithm",
+         "option C": "Approach",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "391": [
+      {
+         "question": "The property of algorithm which states that an algorithm must always terminate after a specific number of steps is called----------------------",
+         "option A": "Finiteness",
+         "option B": "Definiteness",
+         "option C": "None of the above",
+         "option D": "All of the above",
+         "answer": "A"
+      }
+   ],
+   "392": [
+      {
+         "question": "All of the following are properties of algorithm except",
+         "option A": "Finiteness",
+         "option B": "Definiteness",
+         "option C": "None of the above",
+         "option D": "All of the above",
+         "answer": "C"
+      }
+   ],
+   "393": [
+      {
+         "question": "A diagrammatic representation of flow of data/information through a processing system is called-",
+         "option A": "New diagram",
+         "option B": "Program diagram",
+         "option C": "Flow chart",
+         "option D": "None of the above",
+         "answer": "C"
+      }
+   ],
+   "394": [
+      {
+         "question": "The rectangular symbol in a flowchart represents___",
+         "option A": "Decision",
+         "option B": "Connector",
+         "option C": "Process",
+         "option D": "Terminal",
+         "answer": "C"
+      },
+      {
+         "question": "The Diamond symbol in a Flowchart represents",
+         "option A": "Decision",
+         "option B": "Connector",
+         "option C": "Process",
+         "option D": "Terminal",
+         "answer": "A"
+      }
+   ],
+   "396": [
+      {
+         "question": "The arrows in a Flowchart represents",
+         "option A": "Flow lines",
+         "option B": "Decision",
+         "option C": "Process",
+         "option D": "Terminal",
+         "answer": "A"
+      }
+   ],
+   "397": [
+      {
+         "question": "The Circular symbol in a Flowchart represents",
+         "option A": "Flow lines",
+         "option B": "Connector",
+         "option C": "Process",
+         "option D": "Terminal",
+         "answer": "B"
+      }
+   ],
+   "398": [
+      {
+         "question": "Connector symbol in a flow chart performs the following functions except",
+         "option A": "Connects from one page to another page",
+         "option B": "Connects from the bottom of the page to the top of the same page",
+         "option C": "None of the above",
+         "option D": "Connects an upward flow of more than 3 symbols",
+         "answer": "C"
+      }
+   ],
+   "399": [
+      {
+         "question": "Which of the following is not true about flow charts",
+         "option A": "All flow charts end with a terminal or a connection loop",
+         "option B": "The decision symbol has two exit points; these can be on the sides or the bottom and on one side",
+         "option C": "Flow chart symbols have an entry point on the top of the symbol with no other entry points",
+         "option D": "None of the above",
+         "answer": "D"
+      }
+   ],
+   "400": [
+      {
+         "question": "Which of the following is NOT an advantage of flow chart in computer programming",
+         "option A": "Supports coding of program",
+         "option B": "Supports efficient program maintenance",
+         "option C": "Communicates the program flow",
+         "option D": "None of the above",
+         "answer": "D"
+      }
+   ],
+   "401": [
+      {
+         "question": "State example(s) of algorithm",
+         "option A": "Flowchart",
+         "option B": "Pseudocode",
+         "option C": "All of the above",
+         "option D": "None of the above",
+         "answer": "C"
+      }
+   ],
+   "402": [
+      {
+         "question": "Identify a Search Engine out of the following options",
+         "option A": "Microsoft Excel",
+         "option B": "Google",
+         "option C": "Apple",
+         "option D": "WWW",
+         "answer": "B"
+      }
+   ],
+   "403": [
+      {
+         "question": "Which of the following is not a main concern of computer ethics",
+         "option A": "Internet privacy",
+         "option B": "Cracking",
+         "option C": "Copyright Infringement",
+         "option D": "Entertainment",
+         "answer": "D"
+      }
+   ],
+   "404": [
+      {
+         "question": "The property of algorithm which states that an algorithm must always terminate after a specific number of steps is called----------------------",
+         "option A": "Finiteness",
+         "option B": "Definiteness",
+         "option C": "None of the above",
+         "option D": "All of the above",
+         "answer": "A"
+      }
+   ],
+   "405": [
+      {
+         "question": "What is the full meaning of ARPANET",
+         "option A": "Advanced Research Projects Agency Network",
+         "option B": "Advanced Residents Projects Agency Network",
+         "option C": "Advanced Research Projects Agents",
+         "option D": "Advanced Projects Agency Network",
+         "answer": "A"
+      }
+   ],
+   "406": [
+      {
+         "question": "Who developed the internet",
+         "option A": "Isaac Newton",
+         "option B": "Tim Bernes-Lee",
+         "option C": "Bill Gates",
+         "option D": "Mark Zukaberg",
+         "answer": "B"
+      }
+   ],
+   "407": [
+      {
+         "question": "Which of the following is an example of Browser",
+         "option A": "Microsoft work",
+         "option B": "Corel Draw",
+         "option C": "Internet Explorer",
+         "option D": "Python",
+         "answer": "C"
+      }
+   ],
+   "408": [
+      {
+         "question": "HTML represents",
+         "option A": "HyperText Markup Language",
+         "option B": "Higher Markup Language",
+         "option C": "Hyper Makeup Language",
+         "option D": "None of the above",
+         "answer": "A"
+      }
+   ],
+   "409": [
+      {
+         "question": "Look at the following Top level domains and state which of them represents a military site",
+         "option A": ".com",
+         "option B": ".edu",
+         "option C": ".org",
+         "option D": ".mil",
+         "answer": "D"
+      }
+   ],
+   "410": [
+      {
+         "question": "The language that was applicable to the first generation computers is",
+         "option A": "High level language",
+         "option B": "Assembly language",
+         "option C": "Machine language",
+         "option D": "None of the above",
+         "answer": "C"
+      }
+   ],
+   "411": [
+      {
+         "question": "The following is an input device except",
+         "option A": "Keyboard",
+         "option B": "Mouse",
+         "option C": "Scanner",
+         "option D": "Monitor",
+         "answer": "D"
+      }
+   ],
+   "412": [
+      {
+         "question": "One of the following can be referred to as processed data.",
+         "option A": "Processing",
+         "option B": "Information",
+         "option C": "Data",
+         "option D": "Words",
+         "answer": "B"
+      }
+   ],
+   "413": [
+      {
+         "question": "The Device that was designed to replace the traditional method of counting is called",
+         "option A": "500BC",
+         "option B": "Machine",
+         "option C": "Calculator",
+         "option D": "Abacus",
+         "answer": "D"
+      }
+   ],
+   "414": [
+      {
+         "question": "Who is referred to as father of computers",
+         "option A": "Blaise Pascal",
+         "option B": "Charles Babbage",
+         "option C": "Herman Hollerith",
+         "option D": "Bill gate",
+         "answer": "B"
+      }
+   ],
+   "415": [
+      {
+         "question": "Which year did Blaise Pascal invented the first mechanical calculator",
+         "option A": "1646",
+         "option B": "1642",
+         "option C": "1522",
+         "option D": "1641",
+         "answer": "B"
+      }
+   ],
+   "416": [
+      {
+         "question": "The technological base of first generation of Computers is called",
+         "option A": "Transistor",
+         "option B": "Vacuum tube",
+         "option C": "integrated circuit",
+         "option D": "capacitor",
+         "answer": "B"
+      }
+   ],
+   "417": [
+      {
+         "question": "What is the first general purpose digital computer that was based on the idea of stored Program Concept",
+         "option A": "ENIAC",
+         "option B": "EDVAC",
+         "option C": "EDSAC",
+         "option D": "EVAST",
+         "answer": "C"
+      }
+   ],
+   "418": [
+      {
+         "question": "Digital Computer has how many states",
+         "option A": "One",
+         "option B": "Two",
+         "option C": "Three",
+         "option D": "One and Half",
+         "answer": "B"
+      }
+   ],
+   "419": [
+      {
+         "question": "Monitor can be categorized into which Computer Device",
+         "option A": "Input device",
+         "option B": "Storage device",
+         "option C": "Output Device",
+         "option D": "Auxiliary Device",
+         "answer": "C"
+      }
+   ],
+   "420": [
+      {
+         "question": "Laptop can be classified into which type of Computer",
+         "option A": "Minicomputer",
+         "option B": "Micro Computer",
+         "option C": "Mainframe Computer",
+         "option D": "Modern Computer",
+         "answer": "B"
+      }
+   ],
+   "421": [
+      {
+         "question": "The following can be found in the front casing of a Computer System except",
+         "option A": "Power Switch",
+         "option B": "Processor",
+         "option C": "Reset Button key lock",
+         "option D": "CD-ROM Drive",
+         "answer": "B"
+      }
+   ],
+   "422": [
+      {
+         "question": "One of the following can be referred to as Visual Display Unit",
+         "option A": "Monitor",
+         "option B": "Printer",
+         "option C": "Keyboard",
+         "option D": "Mouse",
+         "answer": "A"
+      }
+   ],
+   "423": [
+      {
+         "question": "What is the number of keys in a standard keyboard",
+         "option A": "100",
+         "option B": "105",
+         "option C": "112",
+         "option D": "102",
+         "answer": "B"
+      }
+   ],
+   "424": [
+      {
+         "question": "Which device is used to convert and transfer data or instruction into a Computer System",
+         "option A": "Storage Device",
+         "option B": "Output Device",
+         "option C": "Input Device",
+         "option D": "Auxiliary Device",
+         "answer": "A"
+      }
+   ],
+   "425": [
+      {
+         "question": "The Computer device that is used for selecting and Clicking ions and menus on the screen of the computer system is called",
+         "option A": "Keyboard",
+         "option B": "Monitor",
+         "option C": "Mouse",
+         "option D": "Printer",
+         "answer": "B"
+      }
+   ],
+   "426": [
+      {
+         "question": "The hardware comprises the following Unit except",
+         "option A": "Device Unit",
+         "option B": "Input Unit",
+         "option C": "Processing Unit",
+         "option D": "Output Unit",
+         "answer": "A"
+      }
+   ],
+   "427": [
+      {
+         "question": "The following computer device can be categorized into output unit except",
+         "option A": "Printer",
+         "option B": "keyboard",
+         "option C": "Screen Touch",
+         "option D": "Monitor",
+         "answer": "B"
+      }
+   ],
+   "428": [
+      {
+         "question": "The main memory also known as primary memory is made up of",
+         "option A": "DRAM and ROM",
+         "option B": "RAID and RAM",
+         "option C": "RAM and ROM",
+         "option D": "CSC and MERMORY",
+         "answer": "C"
+      }
+   ],
+   "429": [
+      {
+         "question": "Which Language can be referred to as low level language",
+         "option A": "Assembly",
+         "option B": "Fortran",
+         "option C": "Pascal",
+         "option D": "Machine",
+         "answer": "D"
+      }
+   ],
+   "430": [
+      {
+         "question": "One of the following can be categorized as Utility Software",
+         "option A": "Operating System",
+         "option B": "Anti Virus",
+         "option C": "Application Program",
+         "option D": "Word Processor",
+         "answer": "B"
+      }
+   ],
+   "431": [
+      {
+         "question": "A digital computer system has how many number of states",
+         "option A": "1",
+         "option B": "3",
+         "option C": "2",
+         "option D": "0",
+         "answer": "C"
+      }
+   ],
+   "432": [
+      {
+         "question": "Thermometer can be categorized into which type of computer system",
+         "option A": "Digital Computer",
+         "option B": "Analogue Computer",
+         "option C": "Hybrid Computer",
+         "option D": "Integrated Computer",
+         "answer": "B"
+      }
+   ],
+   "433": [
+      {
+         "question": "Laptop can be grouped into which computer classification by size",
+         "option A": "Super Computers",
+         "option B": "Mainframe Computers",
+         "option C": "Mini Computers",
+         "option D": "Micro Computers",
+         "answer": "D"
+      }
+   ],
+   "434": [
+      {
+         "question": "Operating System can be grouped into which type of software",
+         "option A": "System software",
+         "option B": "Utility software",
+         "option C": "Application program",
+         "option D": "Microsoft word",
+         "answer": "A"
+      }
+   ],
+   "435": [
+      {
+         "question": "The central Processing Unit consist of the following functional parts except",
+         "option A": "Main memory unit",
+         "option B": "Auxiliary Storage Unit",
+         "option C": "Control Unit",
+         "option D": "Arithmetic and Logical Unit (ALU)",
+         "answer": "B"
+      }
+   ],
+   "436": [
+      {
+         "question": "The technological base of third generation of computers is called",
+         "option A": "Vaccum tube",
+         "option B": "Integrated circuit",
+         "option C": "transistors",
+         "option D": "Abacus",
+         "answer": "B"
+      }
+   ],
+   "437": [
+      {
+         "question": "The type of monitor that display only one colour (dark colour) is called",
+         "option A": "Visual Display Unit",
+         "option B": "Colour Monitor",
+         "option C": "Monochrome",
+         "option D": "Output Unit",
+         "answer": "C"
+      }
+   ],
+   "438": [
+      {
+         "question": "The main memory of a computer system is also referred to as which memory",
+         "option A": "Secondary",
+         "option B": "Auxillary",
+         "option C": "Read Only",
+         "option D": "Primary",
+         "answer": "D"
+      }
+   ],
+   "439": [
+      {
+         "question": "Computer System is made up of which major part",
+         "option A": "3",
+         "option B": "1",
+         "option C": "4",
+         "option D": "2",
+         "answer": "D"
+      }
+   ],
+   "440": [
+      {
+         "question": "First Generation of Computers that is very large is invented in which year",
+         "option A": "1958",
+         "option B": "1945",
+         "option C": "1944",
+         "option D": "1946",
+         "answer": "D"
+      }
+   ],
+   "441": [
+      {
+         "question": "Computer can be broken down into how many components",
+         "option A": "3",
+         "option B": "1",
+         "option C": "2",
+         "option D": "4",
+         "answer": "C"
+      }
+   ],
+   "442": [
+      {
+         "question": "A group of programs written by programmer to enable the harware function is?",
+         "option A": "mainframe",
+         "option B": "humanware",
+         "option C": "software",
+         "option D": "mainware",
+         "answer": "C"
+      }
+   ],
+   "443": [
+      {
+         "question": "------- can be defined as the electronic mechanical components of a computer system",
+         "option A": "Peripheral Devices",
+         "option B": "hardware",
+         "option C": "CPU",
+         "option D": "software",
+         "answer": "B"
+      }
+   ],
+   "444": [
+      {
+         "question": "How many parts can computer haredware be broken down into ?",
+         "option A": "1",
+         "option B": "3",
+         "option C": "2",
+         "option D": "5",
+         "answer": "C"
+      }
+   ],
+   "445": [
+      {
+         "question": "CPU is an example of ------- ?",
+         "option A": "software",
+         "option B": "humanware",
+         "option C": "hardware",
+         "option D": "control unit",
+         "answer": "C"
+      }
+   ],
+   "446": [
+      {
+         "question": "--------is refers to as the \" Heart \" of the the computer",
+         "option A": "Peripheral Devices",
+         "option B": "Memory unit",
+         "option C": "CPU",
+         "option D": "Logic unit",
+         "answer": "C"
+      }
+   ],
+   "447": [
+      {
+         "question": "CPU means ?",
+         "option A": "Central Processor Unit",
+         "option B": "Central Power Unit",
+         "option C": "Control Processing Unit",
+         "option D": "Central Processing Unit",
+         "answer": "D"
+      }
+   ],
+   "448": [
+      {
+         "question": "Computer hardware is mande up of ----- and ------ ?",
+         "option A": "CPU & peripheral devices",
+         "option B": "ALU & peripheral devices",
+         "option C": "Control unit & Memory unit",
+         "option D": "none of the above",
+         "answer": "A"
+      }
+   ],
+   "449": [
+      {
+         "question": "ALU means ?",
+         "option A": "Arithemetic & Legitimate unit",
+         "option B": "Arithemetic & Logic unit",
+         "option C": "Arithemetic & Legal unit",
+         "option D": "none of the above",
+         "answer": "B"
+      }
+   ],
+   "450": [
+      {
+         "question": "CPU consists of ------ major parts",
+         "option A": "4",
+         "option B": "2",
+         "option C": "5",
+         "option D": "3",
+         "answer": "D"
+      }
+   ],
+   "451": [
+      {
+         "question": "CPU consists of the following excepts",
+         "option A": "Control unit",
+         "option B": "memory unit",
+         "option C": "Arithmetic & Legitimate unit",
+         "option D": "Arithmetic & Logic unit",
+         "answer": "C"
+      }
+   ],
+   "452": [
+      {
+         "question": "A unit of computer that performs arithmetic and logic operations is ?",
+         "option A": "CPU",
+         "option B": "ALU",
+         "option C": "ROM",
+         "option D": "RAM",
+         "answer": "B"
+      }
+   ],
+   "453": [
+      {
+         "question": "--------- supervises each unit of the computer system",
+         "option A": "ALU",
+         "option B": "Control unit",
+         "option C": "memory unit",
+         "option D": "none of the above",
+         "answer": "B"
+      }
+   ],
+   "454": [
+      {
+         "question": "Under which control does the control unit supervise each unit of the computer?",
+         "option A": "memory unit",
+         "option B": "Stored programs",
+         "option C": "ALU",
+         "option D": "CPU",
+         "answer": "B"
+      }
+   ],
+   "455": [
+      {
+         "question": "The main memory is also refered to as",
+         "option A": "Secondary memory",
+         "option B": "Primary memory",
+         "option C": "unit memory",
+         "option D": "none of the above",
+         "answer": "B"
+      }
+   ],
+   "456": [
+      {
+         "question": "Computer memory can be classified into -------- categories",
+         "option A": "2",
+         "option B": "3",
+         "option C": "5",
+         "option D": "4",
+         "answer": "A"
+      }
+   ],
+   "457": [
+      {
+         "question": "ROM means ?",
+         "option A": "Ready open Memory",
+         "option B": "Random Only memory",
+         "option C": "Read Only Memory",
+         "option D": "Random Open Memory",
+         "answer": "C"
+      }
+   ],
+   "458": [
+      {
+         "question": "Main memory is also known as ?",
+         "option A": "Internal memory",
+         "option B": "External memory",
+         "option C": "Extended memory",
+         "option D": "none of the above",
+         "answer": "A"
+      }
+   ],
+   "459": [
+      {
+         "question": "Main memory is used to store intermediate results and data while computer is processing",
+         "option A": "TRUE",
+         "option B": "FALSE",
+         "option C": "",
+         "option D": "",
+         "answer": "A"
+      }
+   ],
+   "460": [
+      {
+         "question": "RAM means?",
+         "option A": "Ready Access Memory",
+         "option B": "Read Access Memory",
+         "option C": "Random Accepted Memory",
+         "option D": "Random Access Memory",
+         "answer": "D"
+      }
+   ],
+   "461": [
+      {
+         "question": "How types of memory does computer have?",
+         "option A": "3",
+         "option B": "2",
+         "option C": "4",
+         "option D": "5",
+         "answer": "B"
+      }
+   ],
+   "462": [
+      {
+         "question": "secondary memory is also known as ?",
+         "option A": "External memory",
+         "option B": "Internal memory",
+         "option C": "Extensive memory",
+         "option D": "none of the above",
+         "answer": "A"
+      }
+   ],
+   "463": [
+      {
+         "question": "Optical disk is an example of ?",
+         "option A": "primary memory",
+         "option B": "secondary memory",
+         "option C": "unit memory",
+         "option D": "Extensive memory",
+         "answer": "B"
+      }
+   ],
+   "464": [
+      {
+         "question": "Equipments used to get instructions, data or information into the computer are called ?",
+         "option A": "output devices",
+         "option B": "input devices",
+         "option C": "external devices",
+         "option D": "none of the above",
+         "answer": "B"
+      }
+   ],
+   "465": [
+      {
+         "question": "---------- is one of the peripheral devices",
+         "option A": "input devices",
+         "option B": "external devices",
+         "option C": "optical devices",
+         "option D": "none of the above",
+         "answer": "A"
+      }
+   ],
+   "466": [
+      {
+         "question": "The following are examples of input devices except ?",
+         "option A": "keyboard",
+         "option B": "microphone",
+         "option C": "digital camera",
+         "option D": "multimedia speaker",
+         "answer": "D"
+      }
+   ],
+   "467": [
+      {
+         "question": "------- is an example of input devices",
+         "option A": "printer",
+         "option B": "monitor",
+         "option C": "projector",
+         "option D": "digital camera",
+         "answer": "D"
+      }
+   ],
+   "468": [
+      {
+         "question": "Equipments used to get information or result from a computer to the outside world are ?",
+         "option A": "input device",
+         "option B": "output device",
+         "option C": "data devices",
+         "option D": "information devices",
+         "answer": "B"
+      }
+   ],
+   "469": [
+      {
+         "question": "Part of computer components is",
+         "option A": "sofware",
+         "option B": "paperware",
+         "option C": "humanware",
+         "option D": "none of the above",
+         "answer": "A"
+      }
+   ],
+   "470": [
+      {
+         "question": "------- and -------- are types of computer software",
+         "option A": "system software & application software",
+         "option B": "system software & human software",
+         "option C": "application software & output software",
+         "option D": "none of the above",
+         "answer": "A"
+      }
+   ],
+   "471": [
+      {
+         "question": "A group of programs which control the hardware is?",
+         "option A": "hardware",
+         "option B": "software",
+         "option C": "application ware",
+         "option D": "people ware",
+         "answer": "B"
+      }
+   ],
+   "472": [
+      {
+         "question": "Program that control the performance of the system is",
+         "option A": "System software",
+         "option B": "Application software",
+         "option C": "peopleware",
+         "option D": "none of the above",
+         "answer": "A"
+      }
+   ],
+   "473": [
+      {
+         "question": "How many part is system software made up of ?",
+         "option A": "2",
+         "option B": "3",
+         "option C": "5",
+         "option D": "4",
+         "answer": "B"
+      }
+   ],
+   "474": [
+      {
+         "question": "---------- is an example of system software",
+         "option A": "Operating system",
+         "option B": "Input device",
+         "option C": "output device",
+         "option D": "Application software",
+         "answer": "A"
+      }
+   ],
+   "475": [
+      {
+         "question": "The following are examples of system software except?",
+         "option A": "Application software",
+         "option B": "Operating system",
+         "option C": "Translator",
+         "option D": "Utilities",
+         "answer": "A"
+      }
+   ],
+   "476": [
+      {
+         "question": "A set of programs designed to efficiently manage the resources of the computer program is ?",
+         "option A": "Translators",
+         "option B": "Operating system",
+         "option C": "Utilities",
+         "option D": "Application system",
+         "answer": "B"
+      }
+   ],
+   "477": [
+      {
+         "question": "The following are examples of the operating system except?",
+         "option A": "Ms-Dos",
+         "option B": "Xenix",
+         "option C": "Windows",
+         "option D": "none of the above",
+         "answer": "D"
+      }
+   ],
+   "478": [
+      {
+         "question": "-------- is an example of operating system",
+         "option A": "Electronic spreadsheet",
+         "option B": "Graphics packages",
+         "option C": "Accounting packages",
+         "option D": "Linux",
+         "answer": "D"
+      }
+   ],
+   "479": [
+      {
+         "question": "The following are functions of operating system except?",
+         "option A": "It simplifies the creating and management of files",
+         "option B": "It allocates computer resources",
+         "option C": "It allocates memory for any job",
+         "option D": "none of the above",
+         "answer": "D"
+      }
+   ],
+   "480": [
+      {
+         "question": "A computer program that changes a program from one language to another is?",
+         "option A": "Utilities",
+         "option B": "Operating system",
+         "option C": "Translator",
+         "option D": "Application",
+         "answer": "C"
+      }
+   ],
+   "481": [
+      {
+         "question": "The following are examples of translator except?",
+         "option A": "Complier",
+         "option B": "Interpreter",
+         "option C": "Assembler",
+         "option D": "Information",
+         "answer": "D"
+      }
+   ],
+   "482": [
+      {
+         "question": "A software designed to perform house keeping task or routine functions is?",
+         "option A": "Utilities",
+         "option B": "translators",
+         "option C": "Operating system",
+         "option D": "Interpreter",
+         "answer": "A"
+      }
+   ],
+   "483": [
+      {
+         "question": "The following are functions of utilities except?",
+         "option A": "Alloctaion of computer resources",
+         "option B": "Copying of files",
+         "option C": "Sorting records and data file",
+         "option D": "backup",
+         "answer": "A"
+      }
+   ],
+   "484": [
+      {
+         "question": "-------- is an example of utility s/w",
+         "option A": "Editor",
+         "option B": "Producer",
+         "option C": "Interpreter",
+         "option D": "Compiler",
+         "answer": "A"
+      }
+   ],
+   "485": [
+      {
+         "question": "Word processing is an example of ---------- ?",
+         "option A": "Application softwre",
+         "option B": "System software",
+         "option C": "Utility software",
+         "option D": "none of the above",
+         "answer": "A"
+      }
+   ],
+   "486": [
+      {
+         "question": "The following are examples of application software except?",
+         "option A": "Computer packages",
+         "option B": "Architectural packages",
+         "option C": "Editor",
+         "option D": "Word processing",
+         "answer": "C"
+      }
+   ],
+   "487": [
+      {
+         "question": "Linux is an example of --------- ?",
+         "option A": "Operating system",
+         "option B": "Translators",
+         "option C": "Utilities",
+         "option D": "Assembler",
+         "answer": "A"
+      }
+   ],
+   "488": [
+      {
+         "question": "The following are examples of operating system except ?",
+         "option A": "Xenix",
+         "option B": "Windows",
+         "option C": "Linux",
+         "option D": "Utilities",
+         "answer": "D"
+      }
+   ],
+   "489": [
+      {
+         "question": "The Internet is the largest computer network",
+         "option A": "No",
+         "option B": "Yes",
+         "option C": "I don't know",
+         "option D": "none of the above",
+         "answer": "B"
+      }
+   ],
+   "490": [
+      {
+         "question": "THE Acronym internet stands for",
+         "option A": "International Network",
+         "option B": "Interconnected Network",
+         "option C": "Inter-Networth",
+         "option D": "Interconnted Networth",
+         "answer": "B"
+      }
+   ],
+   "491": [
+      {
+         "question": "A neetwork is a group of how many computer linked together?",
+         "option A": "Two",
+         "option B": "Two or More",
+         "option C": "Four or more",
+         "option D": "Four",
+         "answer": "B"
+      }
+   ],
+   "492": [
+      {
+         "question": "LAN is an acronym for",
+         "option A": "Legal Area Network",
+         "option B": "Local Area Network",
+         "option C": "Legal Authentic Network",
+         "option D": "Local Authentic Network",
+         "answer": "B"
+      }
+   ],
+   "493": [
+      {
+         "question": "WAN is an acronym for",
+         "option A": "World Area Network",
+         "option B": "Wide Area Network",
+         "option C": "World Authentic Network",
+         "option D": "Wide Authentic Network",
+         "answer": "B"
+      }
+   ],
+   "494": [
+      {
+         "question": "A WAN typically consist of two or LANS",
+         "option A": "False",
+         "option B": "TRUE",
+         "option C": "Not sure",
+         "option D": "none of the above",
+         "answer": "B"
+      }
+   ],
+   "495": [
+      {
+         "question": "The type of omputer network used to connect two or more computer sharing certain rresources in a relatively small geographuical location, ofen the same building",
+         "option A": "WAN",
+         "option B": "LAN",
+         "option C": "WWW",
+         "option D": "HTML",
+         "answer": "B"
+      }
+   ],
+   "496": [
+      {
+         "question": "A computer that serves many different computers in a network by running specialized software and storing information.",
+         "option A": "Computer Network",
+         "option B": "Server",
+         "option C": "Computer Services",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "497": [
+      {
+         "question": "When you access a web page, your computer is acting as a?",
+         "option A": "Host",
+         "option B": "Client",
+         "option C": "Server",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "498": [
+      {
+         "question": "Which of the software communicate with the server to get the information?",
+         "option A": "Web browser",
+         "option B": "A and C",
+         "option C": "Email software",
+         "option D": "none of the above",
+         "answer": "B"
+      }
+   ],
+   "499": [
+      {
+         "question": "In order for your browser to display a web page, it sends the data to the server where the page is stored.",
+         "option A": "TRUE",
+         "option B": "False",
+         "option C": "Not sure",
+         "option D": "All of the above",
+         "answer": "B"
+      }
+   ],
+   "500": [
+      {
+         "question": "In P2P, each computer do not acts as both a server and a client",
+         "option A": "TRUE",
+         "option B": "False",
+         "option C": "A and B",
+         "option D": "Not sure",
+         "answer": "B"
+      }
+   ],
+   "501": [
+      {
+         "question": "An example of P2P software include",
+         "option A": "Internet Explorer",
+         "option B": "Skype",
+         "option C": "Mozilla Firefox",
+         "option D": "Facebook",
+         "answer": "B"
+      }
+   ],
+   "502": [
+      {
+         "question": "P2P is an acronym for which of the following?",
+         "option A": "Point-to-point",
+         "option B": "peer-to-peer",
+         "option C": "Pair-to-Pair",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "503": [
+      {
+         "question": "WWW is an acronym that stand for",
+         "option A": "Wide World Web",
+         "option B": "World Wide Web",
+         "option C": "Web World Wide",
+         "option D": "Wide Web World",
+         "answer": "B"
+      }
+   ],
+   "504": [
+      {
+         "question": "The internet is a virtual network of web sites connected by hyperlinks.",
+         "option A": "Ture",
+         "option B": "FALSE",
+         "option C": "No Idea",
+         "option D": "Not sure",
+         "answer": "B"
+      }
+   ],
+   "505": [
+      {
+         "question": "The acronym HTML stand for?",
+         "option A": "High Text Mark up Language",
+         "option B": "Hypertext Markup language",
+         "option C": "HyperText Marking Language",
+         "option D": "HperText Mark Language",
+         "answer": "B"
+      }
+   ],
+   "506": [
+      {
+         "question": "The backbone of the WWW is made of?",
+         "option A": "Internet files",
+         "option B": "HTML files",
+         "option C": "WWW files",
+         "option D": "LAN files",
+         "answer": "B"
+      }
+   ],
+   "507": [
+      {
+         "question": "What does CSS stand for?",
+         "option A": "Cascading Styles Sheet",
+         "option B": "Cascading Style Sheet",
+         "option C": "Cascade Style of System",
+         "option D": "Cascading Style System.",
+         "answer": "B"
+      }
+   ],
+   "508": [
+      {
+         "question": "The following are an example of Web browser except",
+         "option A": "Safan",
+         "option B": "WhatsApp",
+         "option C": "Google Chrome",
+         "option D": "Netscape Navigator",
+         "answer": "B"
+      }
+   ],
+   "509": [
+      {
+         "question": "The acronym URL stands for?",
+         "option A": "Unity Reform Locator",
+         "option B": "Uniform Resource Locator",
+         "option C": "Uniform Reform Locator",
+         "option D": "Unity Resource Locator",
+         "answer": "B"
+      }
+   ],
+   "510": [
+      {
+         "question": "ISP is an acronym that stands for",
+         "option A": "Internet Service Protocol",
+         "option B": "Internet Service Provider",
+         "option C": "Interconnected Service Protocol",
+         "option D": "Interconnected Service Provider",
+         "answer": "B"
+      }
+   ],
+   "511": [
+      {
+         "question": "The term Http is an acronym for",
+         "option A": "HyperTextTransmission Protocol",
+         "option B": "HyperText Transfer Protocol",
+         "option C": "HighText Transmission Protocol",
+         "option D": "HighText Transfer Protocol.",
+         "answer": "B"
+      }
+   ],
+   "512": [
+      {
+         "question": "The following are features of E-mail except (b) Look directory for files FTP Server",
+         "option A": "One-to-one or One-to-many Communication",
+         "option B": "Look directory for files FTP Server",
+         "option C": "Encourages informational communications",
+         "option D": "Instant Communication",
+         "answer": "B"
+      }
+   ],
+   "513": [
+      {
+         "question": "The following are objects of FTP except?",
+         "option A": "Get the file(s) you want",
+         "option B": "Encourages informational communications",
+         "option C": "Look directory for the files in FTP server",
+         "option D": "Gives the remote site a Password",
+         "answer": "B"
+      }
+   ],
+   "514": [
+      {
+         "question": "Which of the following steps are required for a TELNET session?",
+         "option A": "Dial up connection",
+         "option B": "Log in the remote computer",
+         "option C": "Leased connection",
+         "option D": "Cable Modem Connection.",
+         "answer": "B"
+      }
+   ],
+   "515": [
+      {
+         "question": "Which of the following is a family of technologies that provides digital transmission over the wires of a local telephone network",
+         "option A": "TELNET",
+         "option B": "DSL",
+         "option C": "FTP",
+         "option D": "SMTP",
+         "answer": "B"
+      }
+   ],
+   "516": [
+      {
+         "question": "The following are different ways of communication online except",
+         "option A": "Social Networking",
+         "option B": "Internet",
+         "option C": "VoIP",
+         "option D": "Chat",
+         "answer": "B"
+      }
+   ],
+   "517": [
+      {
+         "question": "The term VoIP is an acronym for?",
+         "option A": "Voice On Internet Protocol",
+         "option B": "Voice Over Internet Protocol",
+         "option C": "Video On Internet Protocol",
+         "option D": "Video Over Internet Protocol.",
+         "answer": "B"
+      }
+   ],
+   "518": [
+      {
+         "question": "The acronym DSL stands for?",
+         "option A": "Dynamic Subscriber Line",
+         "option B": "Digital Subscriber Line",
+         "option C": "Dynamic Subscription Line",
+         "option D": "Digital Subscription Line.",
+         "answer": "B"
+      }
+   ],
+   "519": [
+      {
+         "question": "IP is an acronym that stands for?",
+         "option A": "Internet Provider",
+         "option B": "Internet Protocol",
+         "option C": "International Protocol",
+         "option D": "Internetwork Provider",
+         "answer": "B"
+      }
+   ],
+   "520": [
+      {
+         "question": "Which of the following best suite the acronym ISP?",
+         "option A": "Internet Server Protocol",
+         "option B": "Internet Service Provider",
+         "option C": "Internet Service Protocol",
+         "option D": "Internet Server Provider.",
+         "answer": "B"
+      }
+   ],
+   "521": [
+      {
+         "question": "Which of the following is not an example of search engine?",
+         "option A": "Google",
+         "option B": "Twitter",
+         "option C": "Yahoo",
+         "option D": "Bing",
+         "answer": "B"
+      }
+   ],
+   "522": [
+      {
+         "question": "Google is an example of web browser.",
+         "option A": "TRUE",
+         "option B": "False",
+         "option C": "A and B",
+         "option D": "Not sure",
+         "answer": "B"
+      }
+   ],
+   "523": [
+      {
+         "question": "Which of the following is not an example of Social Media Platform?",
+         "option A": "WhatsApp",
+         "option B": "Udemy",
+         "option C": "Twitter",
+         "option D": "Medium.",
+         "answer": "B"
+      }
+   ],
+   "524": [
+      {
+         "question": "Slack is an example of social media platform.",
+         "option A": "FALSE",
+         "option B": "TRUE",
+         "option C": "Not sure",
+         "option D": "None of the above",
+         "answer": "B"
+      }
+   ],
+   "525": [
+      {
+         "question": "Is HTML programing language?",
+         "option A": "Yes",
+         "option B": "No",
+         "option C": "A and B",
+         "option D": "I don't know",
+         "answer": "B"
+      }
+   ],
+   "526": [
+      {
+         "question": "Which of the following is an example of a scripting language?",
+         "option A": "ISP",
+         "option B": "HTML",
+         "option C": "FTP",
+         "option D": "DSN",
+         "answer": "B"
+      }
+   ],
+   "527": [
+      {
+         "question": "The founder of Google are",
+         "option A": "Steve Jobs and Sergey Brin",
+         "option B": "Lamy Page and SergeyBri",
+         "option C": "Sergey Brin and Mark Zuckerberg.",
+         "option D": "Mark Zuckerberg and Larry Page",
+         "answer": "B"
+      }
+   ],
+   "528": [
+      {
+         "question": "The founder of amazon is?",
+         "option A": "Sergey Brin",
+         "option B": "Jeff Bezos",
+         "option C": "Bill Gates",
+         "option D": "Warren Buffet.",
+         "answer": "B"
+      }
+   ],
+   "529": [
+      {
+         "question": "The founder of WhatsApp Mobile Messaging application is?",
+         "option A": "Mark Zuckerberg",
+         "option B": "Jan Koum",
+         "option C": "Mark Zuchaberg",
+         "option D": "Larry Page.",
+         "answer": "B"
+      }
+   ],
+   "530": [
+      {
+         "question": "The founder of Facebook is?",
+         "option A": "Mark Zuchaberg",
+         "option B": "Mark Zuckerberg",
+         "option C": "Jan Koum",
+         "option D": "Mark Zuckergag.",
+         "answer": "B"
+      }
+   ],
+   "531": [
+      {
+         "question": "The following are founders of twitter social platform except?",
+         "option A": "Jack Dorsey",
+         "option B": "Jan Koum",
+         "option C": "Noah Glass",
+         "option D": "Biz Stone.",
+         "answer": "B"
+      }
+   ],
+   "532": [
+      {
+         "question": "The following are some of the things to consider in selecting ISPs except?",
+         "option A": "Speed",
+         "option B": "Weather",
+         "option C": "Price",
+         "option D": "Service Record.",
+         "answer": "B"
+      }
+   ],
+   "533": [
+      {
+         "question": "The acronym DNS Stands for?",
+         "option A": "Domain Name Service",
+         "option B": "Domain Name System",
+         "option C": "Domain Name Server",
+         "option D": "None of the above.",
+         "answer": "B"
+      }
+   ],
+   "534": [
+      {
+         "question": "The method or protocol by which data is sent from one computer to another on the internet is called",
+         "option A": "DHCP",
+         "option B": "IP",
+         "option C": "TCP",
+         "option D": "UDP.",
+         "answer": "B"
+      }
+   ],
+   "535": [
+      {
+         "question": "The protocol that makes sure the data is put in the right order, and none of it is missing is called",
+         "option A": "UDP",
+         "option B": "TCP",
+         "option C": "ISP",
+         "option D": "P2P.",
+         "answer": "B"
+      }
+   ],
+   "536": [
+      {
+         "question": "SNMP is an acronym for?",
+         "option A": "Simplified Network Management Protocol",
+         "option B": "Simple Network Management Protocol",
+         "option C": "Simple Network Managing Protocol",
+         "option D": "Simplified Network Management Provider.",
+         "answer": "B"
+      }
+   ],
+   "537": [
+      {
+         "question": "The use of internet is ���..",
+         "option A": "for special people",
+         "option B": "for all",
+         "option C": "few",
+         "option D": "professionals",
+         "answer": "B"
+      }
+   ],
+   "538": [
+      {
+         "question": "The internet is a virtual Network of websites connected by hyperlinks",
+         "option A": "TRUE",
+         "option B": "False",
+         "option C": "Not Sure",
+         "option D": "No idea",
+         "answer": "A"
+      }
+   ]
+}

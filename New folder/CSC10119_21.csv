@@ -1,0 +1,841 @@
+question,option A,option B,option C,option D,answer
+Which of the following extract instructions and decodes them?,Memory,CPU,ALU,Control Unit,B
+Which linking unit allows the entry of data into the computer system?,Output Unit,Input Unit,Processor,Cache memory,B
+Which of the following holds data for a long period of time?,Cache Memory,Hard Disk,RAM,Diskette,B
+Which of the following refers to instruction set of a computer?,Arithmetic operations performed by a memory location,Logical operations performed by a cache memory,The operations a microprocessor performs,"
+Arithmetic operations performed by a microprocessor
+",C
+Which of the following makes up the CPU?,Memory and ALU,Cache and Control unit,Control unit and ALU,Ram and Control unit,C
+Which of the following is the fastest?,RAM,Cache,Hard drive,Flash disk,B
+Which of the following is a unit for measuring the speed of a computer system,10-9,10-6,103,106,B
+"With respect to computer system, what is versatility?","
+Ability to carry out same multiple tasks
+",ability to execute completely different type of work,"ability to carry out related tasks in limited time
+
+","ability to carry out iteration.
+",B
+Which of the following is an in-built memory?,"
+hard disk
+",magnetic drive,RAM/cache,Floppy disk,C
+Which of the following is crucial to problem solving?,Problem initiation,Problem identification,Problem creation,"
+Problem definition",B
+The primary language understood by a computer is______________,High level language,Low level language,"
+Intermediate language","Object languages
+",C
+Which of the following relates to steps required to complete a task?,Flowcharts,Data flows,Algorithm,Structure charts,C
+Which of the following is closer to the processor?,RAM,Cache,Hard drive,Flash disk,B
+Which of the following is not a function of the input unit?,It accepts (or reads) the list of instructions and data from the outside world.,It converts these instructions and data in computer acceptable format.,It supplies the converted instructions and data to the computer system for further processing,"
+It converts these coded results to human acceptable (readable) form",D
+Which of the following is a flash memory device?,Memory stick,Blu-ray disc,Tape cassette,SSD,D
+Which of the following functions as both input and output device?,Facsimile,Plotters,Webcam,Projector,A
+Which of the following does not relate to the storage functions of the memory?,Final results of processing before these results are released to an output device,"Storage of intermediate results of processing.
+",Storage of all data to be processed and the instruction required for processing,Arithmetic data only,D
+Which of the following performs comparison and calculations?,Memory,USB,CPU,Control unit,C
+Which of the following relates to diligence in computers?,Free from tiredness and fatigue,Ability to compute error,"Ability to make multiple comparisons
+",Ability to lower human performance,A
+Which of the following set represents the typical functional component of a computer system from input to output?,"Image scanner, super disk, LCD projection channel","
+LCD projection channel, Image scanner, super disk","
+Super disk, Image scanner, LCD projection channel","
+LCD projection channel, super disk, Image scanner",A
+Which of the following is a temporary storage device?,Magnetic disk,Hard disk,Cache memory,Network media,C
+Which of the following is a magnetic storage device?,Memory stick,Blu-ray disc,Hard disk,SSD,D
+How does complicated instruction set affect a computer system?,"Makes operation performance faster
+",Makes CPU performance slower,"Makes CPU performance faster
+","Makes no effect on the system performance
+",B
+Which of the following uses light for data storage?,"Memory stick
+",Blu-ray disc,Tape cassette,SSD,B
+Which of the following controls both the internal and external devices?,ALU,CPU,CACHE,RAM,B
+Which of the following is an attribute of a good programmer?,Ability to encode fact into variables,"
+Ability encode variables into facts",Ability to convert data into facts,"
+Ability to store facts in the system",A
+"To reduce the memory access time, which of the following can be incorporated?",heaps,"
+Higher capacity RAM",SDRAM,"
+Cache memory",D
+The small extremely fast RAMS are called,Cache,Heaps,Hard disk,Floppy disk,A
+Devices that accepts data from outside computer and transfer into CPU are called?,input devices,digital devices,"
+analogue devices",truth table peripherals,A
+Devices which are used to receive data from central processing unit are classified as?,output/input devices," 
+digital devices",signaled devices,output devices,A
+RAM stands for,Random Access Memory,"
+Read Access Memory",Read Arithmetic Memory,"
+Random Arithmetic Memory",A
+Which of the following computer component is correctly associated with the function it performs?,monitor: output,CPU: storage,RAM: processing,"
+Optical drive: input",A
+The hardware unit used for controlling computer system operation is___?,monitor,RAM,Processor,keyboard,C
+The hardware unit for long-term storage is_____?,RAM,Hard Disk,Floppy disk,DVD,B
+"Which of the following will be chosen based on speed to access?
+",RAM,Hard Disk,Floppy disk,CD-ROM,A
+The full meaning of ALU is_______________,"Arithmetic Logic Unit
+",Array Logic Unit,"Application Logic Unit
+",None of above,A
+ALU and Control Unit jointly known as__________________,RAM,ROM,CPU,PC,C
+RAM is an example of________________________,"
+Secondary memory
+",Primary memory,Main memory,Both primary and secondary memory,B
+Magnetic disk is an example of,Secondary memory,Primary memory,Main memory,Both primary and secondary memory,A
+RAM is also called a," 
+Read / Write Memory",Long Memory,"
+Permanent Memory
+",Primary Memory,A
+All of the following are examples of storage devices EXCEPT," 
+hard disk drives",printers,"
+floppy disk drives","CD drives
+",B
+Computers process data into information by working exclusively with,multimedia,word,binary numbers,characters,C
+A DVD is an example of a,hard disk,optical storage,output device," 
+solid-state storage device
+",B
+Which part of the computer is directly involved in executing the instructions of the computer program?,The scanner,The main storage,The secondary storage,The processor,D
+Which of the following does not store data permanently?,ROM,RAM,Floppy disk,Hard disk,B
+Which one of the following is true for RAM?,"
+It is volatile memory","It is temporary memory
+",It is primary memory,All of the above,D
+"What does a computer do after gathering data, processing it and sending the data to the output device?",Delete the data,Write the data,Hide the data,Stores the data,D
+Where are the programs and data currently processed by the CPU stored?,Internal memory,PROM,Mass memory,"None of the above
+",D
+Accepted instructions are converted into machine language with the help of,Memory unit,Input Unit,Logical unit,Processing unit,B
+Secondary storage devices are,Long-term and high- capacity devices,Temporary in nature like RAM,"
+Diskettes, tapes or removable devices
+",Permanent in nature like Cache memory,A
+A computer system is known for,Formulating instruction,"
+Directing instruction",Executing Instruction,"
+Formatting Instruction
+",C
+The first thing a computer does while it manipulates data is,"Store the data
+",Take the data as input,Process the data,"None of the above
+",B
+A computer cannot do the following,Store Data,process data,take in data as input,"None of the above
+",D
+One of the following could not be classified as part of a computer," 
+Display unit
+",CPU,Storage Unit,"None of the above
+",D
+A program could be defined as,A formative instruction,A directed instruction, formatted instruction,An executable instruction,D
+A computer can be classified based on the following except,Type of Data Processed,Age of technology,Size,Meaning,D
+Computer is classified on purpose based on,Special Purpose,General Purpose,All of the above,None of the above,C
+A classification of computer that combines the best qualities of digital and analog computers is,Joint computers,Specific computers,Hybrid computers,General computers,C
+The program for operating computer is stored in,RAM,ROM,CPU,Monitor,B
+A Computer that is known for representing data or information in discrete or discontinuous form is,Joint computer,Hybrid computer,Special Computer,Digital Computer,D
+"
+The first programmable computer is",MAC engine,SUM engine,Difference engine,Product engine,C
+One of the following is the major characteristic of the first generation computer,Transistors,Integrated circuit,Vacuum tubes,All of the above,C
+The name of the person that produced the first computer is,Charles Babbage,Pascal Blaise,Bill Gate,Mike Warren,A
+The electronic switches that was used instead of electromechanical relays by first generation computers could also be termed as,Vacuum tubes ,Integrated circuits,VLSI,Transistors,A
+The concept of Von Newman that made EDVAC more remarkable than ENIAC is,Speed,Accuracy,Stored program,None of the above,C
+The remarkable feature of the second generation computers is,Transistors,"
+Integrated circuit",Vacuum tubes,All of the above,A
+The type memory that was used by second generation computers is classified as,Magnetic Core ,"Solid base
+",Liquid State,Vacuum tubes,A
+Which of the following is not part of classification by size,Laptop computer,Mini computer,Super computer,Micro computer,A
+"
+One of the following is part of the classification of computers by size",Desktop computers,Laptop computers,Mainframe computers,"
+Palmtop computers",C
+Which generation of computers is characterized by the development of Integrated circuit,First,Second,Third,Fourth,B
+"
+One of the characteristics of fourth generation of computers is",VLSI,IC,LSI,Transitor,C
+Palmtop and desktop computers are examples of,Larger computers,"Mega computers
+Mega computers
+Mega computers",Super computers,Micro computers,D
+"
+
+Laptop and Tablet computers are examples of",Mega Computers,Micro computers,Super computers,Mini computers,B
+"
+VLSI is a major characteristic of",Sixth generation,Fifth generation,Fourth generation,Third generation,B
+Which of the generation of computers were also characterized by SSI and MSI evolution,Sixth generation,Fifth generation,Fourth generation,Third generation,D
+Development of LAN is one of the advantages of,First generation,Second generation,Third generation,Fifth generation,D
+Mouse is part of computer,Software,Hardware,Applicationware,"
+Partsware",B
+CPU stands for,"
+Cost of Public Union",Central Processing Union,Central Processing Union,None of the above,D
+RAM and ROM are examples of computer,"
+Monitor",Software,CPU,Memory ,D
+identify an output device from the options below,speaker,touch pen,keyboard,mouse,A
+identify an input device from the options below,printer, mouse,speaker,monitor,B
+Which group are output devices below,"Mouse, printer, monitor","Speaker, mouse, printer","Keyboard, monitor, speaker","Printer, monitor, speaker",D
+ROM stands for,Random output means,Random Access Memory,Read only memory,Read out memory,C
+RAM stands for,Random output means,Random Access Memory,Read out memory,Read only memory,B
+One of these is not an input device,Mouse,Keyboard,Scanner,printer ,D
+CPU can be found in,Display unit,System unit,Keyboard,mouse,B
+which of these is a characteristics of first generation computers,parallelism,very large and consume spaces,very small and can be carried on hand,multitasking,B
+SSI as associated with generation of computers is an acronym for,Small scale integration,Small sectional interpretation,Solid state interface,Solid statue interface,A
+MSI as associated with generation of computers is an acronym for,Most scalable interpretation,Medium scale integration,Middle sectional interpretation,Meddle section interpretation,B
+Low level languages could be seen as a characteristics of,Second generation computers,"
+Fifth generation computers",Fourth generation computers,"
+Third generation computers",A
+High level languages were first introduced first in the,Second generation computers,"
+Fifth generation computers",Fourth generation computers,"
+Third generation computers",A
+Assembly language is an example of ………………………………,High level language,Highest level language,Low level language  ,"
+None of the above",B
+Parallelism is a characteristic of,Second generation computers,"
+Fifth generation computers",Fourth generation computers,"
+Third generation computers",B
+USB as a connective port of computer stands for ...............,United State of Base,Universal section boundary,Universal Serial Bus ,Union Section Bus,C
+Computer is classified on size based on,Mini computers,Micro computers,All of the above," 
+None of the above",C
+Which of these is not among classification of computers by generation,Fifth,First,Half ,Second,C
+Which of these are group of input devices,"
+Camera, mouse, scanner","Mouse, keyboard, printer","Keyboard, light pen, projector","Mouse, keyboard, monitor",A
+Which of these cannot be classified as part of a computer system,Printer,Mouse," Scanner
+All of the above",CUP,D
+"
+Fortran and COBOL are examples of",Low level language,High level language," 
+All of the above",None of the above,B
+Computer software is basically - and - required to perform specific tasks on a system.,Operations and programs,Programs and procedure ,"
+Systems and procedure",procedure and operations,A
+Computer languages include,"Low-level, medium and Assembly Languages
+
+","Low, Assembly and High Level languages","
+Assembly, Low-level and Machine Languages","Low, High and Medium Languages",B
+One of the following is NOT a system software,Device drivers,Software components,"
+Operating systems",System components ,D
+Programming software helps writing programs through the following EXCEPT,Compilers," 
+Deboggers ",Editors,Data Link layer,B
+Class of software that is used for solving specific tasks is generally termed asoperation at the same time is called .......,"Specific-task software
+",Microsoft suite,Application software,Enterprise software,C
+Microsoft Access is an example of a,Multimedia software,Simulation software,Presentation software,Database software ,D
+Customer relationship management system is an example of a,"
+Multimedia software
+",Simulation software,Enterprise software,Management software,C
+"
+Encarta is an example of ……………………………",Educational software ,Management software,Multimedia software,Application suite,A
+"Software used to manipulate text, graphics and numbers are known as ...........",Debuggers,"
+Editing software",Graphic software,Application software  ,D
+"Applications that provide a collection of documents and graphic illustrations including clip art drawings, diagrams, diagrams and photos",Graphic applications,Drawing applications,Microsoft suite,Web-based applications,D
+"The Class of application that can be used to organize, analyze and chart numerical data such as financial reports is known as",Microsoft Excel,Corel Quattro Pro,Spreadsheet,Lotus 1-2-3,C
+A collection of relational data is known as,INFORMATION,DATABASE,FILE,DOCUMENT,B
+SQL means,Structured Quality Labels,System Query Language,System Quality Labels,Structured Query Language,D
+DBMS means,Database Management Software,Database Manipulating System,Database Manager System,Database Management System,D
+One of the following best describes a malware,INTRUSIVE,FREE DOWNLOADABLE,CHEAP,downloadable,A
+Software that comes with a demo version is known as,malware,shareware,spyware,commercial software,D
+Whatsapp is an example of,malware,chatware,shareware,adware,C
+"Trojan horses, worms and viruses are examples of",malware,nagware,shareware,adware,A
+Norton internet security suite and the antivirus system are examples of,malware suite,utility suite,shareware suite,adware suite,B
+Computer softwares can be classified as,Programming and graphics,Editors and debuggers,system and application,Application and programming,C
+Computer data is transmitted block by block in transmission known as ..................,synchronous,digital,asynchronous,analog,A
+"In computer, which of the following is a communication media?",all of these,"standard telephone lines
+",coaxial cables,microwave transmission,A
+"In computer, converting a digital signal in to an analog signal is called",modulation,demodulation,conversion,transformation,A
+Signals generated by a operating system to send it over phone line must be further converted into a,AC signal,analog signal,digital,microwave,B
+"In computer, process of superimposing a low frequency signal over a high frequency signal is called",modulation,demodulation,conversion,transformation,A
+"Software application which is used for retrieving, presenting and traversing information resources on World Wide Web is called",gateway,EFT,browser,teleconferencing,C
+Layers present in a computer OSI model are,4,5,6,7,D
+Collection of documents stored in a computer which is permanently connected with internet around world is called,telnet,www,FTP,LAN,B
+A node which is represented in a computer network topology is basically a,computer,hub,hardware,printer,A
+Key element of a computer protocol is,syntax,semantics,timing,All of these,D
+Which of following is a computer internet protocol?,IEEE 802.2,IEEE 802.3,TCP/IP,MAC,C
+Computer software which combines audio and video application sharing is known as,teleconferencing software,data sharing software,project sharing software,utility software,A
+"Topology which takes more cable than e.g. a bus, but benefit is that if a cable fails, only one node will be brought down is",bus topology,ring topology,star topology,mesh topology,D
+Which of following is not a benefit of a computer network?,reduce hardware cost,connect people,enable shared applications,produce high quality programs,D
+"In computer, ISO stands for","In computer, ISO stands for",independent system operator,infrared space observatory,international students organization,A
+Which of following is not a computer LAN topology?,bus topology,band,star,ring,B
+Main purpose of computer network is............,file sharing,printer sharing,hard disk sharing,all of these,D
+Transferring information from a computer to internet is called,downloading,downsizing,uploading,pasting,C
+Bottom layer of computer OSI model is...............,physical,data link,network,Application,A
+Top most layer of computer OSI model is..........,application,session,transport,presentation,A
+Layer of computer OSI model which furnishes electrical connections and signaling is known as........,application,physical,session,network,B
+"In computer, FTP facility is used to.......",transfer protocol,transfer file,connect to internet,check PC,B
+If a computer in a network shares resources which can be accessed by other computers it is called a................,server,client,sender,port,A
+"In computer, FTP stands for...............",file transfer protocol,finding tele path,final transmission program,file transfer process,A
+Layer of computer OSI model which performs data compression is.............,network,datalink,presentation,physical,D
+ISO developed a standard model of computer data communication system which is known as......,OSI,ANSI,DEC,SNA,A
+Layer of computer OSI model which is concerned with addressing and routing is called................,network,datalink,physical,transport,A
+Interconnection which is present between two or more computers so that they can communicate with each other is called..............,network,sharing,link,LAN,A
+OSI stands for...............,Open System internals,Open System international,Open System interconnection,Organization Standard International,C
+Framing is an activity at the.................layer of the OSI,Network,Application,physical,data link,D
+The following are advantages of social media except.........,sharing,socialization,cyberstalking,crowdsourcing,C
+The following are examples of social media platform except.............,Google,Google+,Facebook,Telegram,A
+The path through which signal will be sent between two nodes is determined at the..............layer,physical ,logical ,transport,network,D
+Conversion of bit into electrical or optical signals is the carried out at the ........layer,Data Link,Physical,Application,Transport,B
+.................layer performs the role of translator,Presentation,Session,Physical,Data Link,A
+The following are transmission modes except...............,"Duplex
+",Quarter Duplex,Half Duplex,simplex,B
+Routers and gateways are devices found on the ......................layer of the OSI model,physical ,SESSION,Presentation,None of the options,D
+Service point addrressing is one of the role of which layer?,Session layer,Transport layer,Network layer,Data Link layer,B
+Mechanism used by the session layer to prevent two parties from attempting the same critical operation at the same time is called .......,Operation management,Access management,Token management,None of the options,C
+The following activities are executed at the presentation layer except............,Encryption,Decryption,Compression,Framing,D
+The following are protocols on the Application layer except.......................,HTTP,FTP,UDP,DNS,C
+Which of the following is not the function of the Application Layer?,None of the Options,Directory Services,Mail Services,Mail Services,A
+SMTP stands for ...........,Systemic Mail Transfer Protocol,Simple Mail Transport Protocol,Systemic Mail Transmition Protocol,Simple Mail Transfer Protocol,D
+Which of the following is not a protocol in Layer 3 of the OSI model?,Open Shortest Path First,Internet Protocol Version 6,Exterior Gateway Protocol,Border Gateway Protocol,D
+The two types of connection control on the transport layer are...................................,Connectionless and Connection-Oriented TL,Active and Passive TL,Direct and Indirect TL,None of the options,A
+Bluetooth and Infrared operates on which layer of the OSI-model?,Transport,Physical,Application,Session,B
+Voltages and Baud rate needed for transmission is defined on the...........layer,Network,Presentation,Physical,Data Link,C
+Synchronization is an activity on the following layers except..................,Session,Data Link,Presentation,None of the Options,C
+...........................layer is the inteface between the model and end-users,Session,Physical,Application,Network,C
+Error control in carried out of the following layers except...................,Presentation,Transport,Network,Data Link,A
+Which of the following is not true about the internet,A network of networks,Started as ARPANET,Started in US Department of defense,None of the above,D
+ARPA represents,Advanced Research Projects Agency,Advanced Reach Projects Agency,Advanced Residents Projects Agency,Advanced Research Projects Agents,A
+The World Wide Web came into being in,1990,1991,1992,1997,B
+Who developed the internet,Isaac Newton,Tim Bernes-Lee,Bill Gates,Mark Zukaberg,B
+The internet works with which of the following major protocols,TCP/IP,TPP/IPC,PCT/PI,CPT/PI,A
+HTTP represents,HyperText protocol,Hypertext Transfer Protocol,Hyper Protocol,None of the above,B
+HTML represents,Hyper Text Markup Language,Hyper Markup Language,Higher Markup Language,None of the above,A
+URL represents,Universal Resource Locator,United Resource Locator,Uniform Resource Locator,None of the above,C
+Which of the following is an example of Browser,Microsoft Word,Corel Draw,Internet Explorer,Python,C
+Which of the following is an example of search engine,Microsoft Excel,Google,Apple,WWW,B
+URL can also represent,Web address,Search engine,Tool bar,None of the above,A
+Look at the following Top level dormains and state which of them represents a military site,.com,.edu,.org,.mil,D
+Which of the Top level domains below best applies to University website,.com,.edu,.org,.mil,B
+"When establishing a website for commercial purposes, which of the following Top level domains best applies",.com,.edu,.org,.mil,A
+"To establish a government website, which of the following Top level domain would you recommend",.biz,.int,.gov,.name,C
+The browser keeps track of the pages you’ve visited and saves them on your hard disk so they will load faster when you return to them. These saved files are stored where,RAM,ROM,Cache,Magnetic device,C
+Search engine databases are selected and built by Computer Robot Programs called,Spiders,Search rats,Bots,Quicknets,A
+"When personal details of an innocent people are harvest by a third party so that they can be used for malicious purposes, is called",Personal theft,Identity theft,Institutional theft,None of the above,B
+In the world computing the brabch of philosophy that deals with determining what is right and wrong is called,Computer ethics,Computer forensics,Computer rights,None of the above,A
+Which of the following is/are an ethical behavior in computing,Use of computer to harm other people,Use of computer to steal,None of the above,All of the above,C
+Which of the following is NOT an example of antivirus,AVG,Avast,Norton,Microsoft word,D
+The idea of computer ethics was invented in what year,1950,1951,1952,1953,A
+The idea of computer ethics was invented by who,Professor Bill Harvard,Professor Nobert Weiner,Professor John Clijnton,Edward Newman,B
+Which of the following is NOT a main concern of computer ethics,Internet privacy,Cracking,Copyright Infringement,Entertainment,D
+Which of the following computer based programs is non-destructive,Virus,Worms,Trojan horse,Microsoft windows,D
+Which of the following is a primary architecture of the internet,Client-client architecture,Client-server architecture,Server-server architecture,None of the above,B
+Which of the following is NOT a type of protocol,TCP,IP,HTTP,.gov,D
+TCP represent a kind of protocol fully called,Transport Control Protocol,Transmission Control Protocol,Transfer Co-ordinating Protocol,None of the above,B
+WWW represents,Worldwide Network,World Wide Web,World Wide Internetwork,None of these,B
+IP is a popular protocol in computing; IP therefore represents,Information Protocol,Internet Protocol,Intercharge Protocol,None of the above,B
+ARPANET was a network that connected major computers at University of ……………,University of California,University of Cambridge,University of Capetown,University of Connecticut,A
+The World Wide Web came into being in what year,1990,1992,1991,1995,C
+"------------contains the basic software you need in order to find, retrieve, view and send information over the internet.",Browser,Internet retriever,Web page,None of the above,A
+"Generally, any text that contains “links” to other text are called",Browser,Hypertext,URL,None of the above,B
+------------ is a term which describes sending data from a local computer to a remote computer,Download,Offload,Upload,Update,C
+------------- is aterm which describes copying data from a remote computer to a local computer,Update,Download,Offload,None of the above,B
+The beginning page of any website is called,First page,New page,Home page,None of the above,C
+What is the full meaning of ARPANET,Advanced Research Projects Agency Network,Advanced Residents Projects Agency Network,Advanced Research Projects Agents,Advanced Projects Agency Network,A
+------------- is a set of steps for solving a particular problem,Algorithm,Instruction,Approach,None of the above,A
+The property of algorithm which states that an algorithm must always terminate after a specific number of steps is called----------------------,Finiteness,Definiteness,None of the above,All of the above,A
+All of the following are properties of algorithm except,Finiteness,Definiteness,None of the above,All of the above,C
+A diagrammatic representation of flow of data/information through a processing system is called,New diagram,Program diagram,Flow chart,None of the above,C
+The rectangular symbol in a flowchart represents,Process ,Flow,Decision,Offpage Connector,A
+The Diamond symbol in a Flowchart represents,Process ,Flow,Decision,Offpage Connector,C
+The arrows in a Flowchart represents,Process ,Flow,Decision,Offpage Connector,B
+The Circular symbol in a Flowchart represents,Input/output,Process,Terminal,Connector,D
+Connector symbol in a flow chart performs the following functions except,Connects from one page to another page,Connects from the bottom of the page to the top of the same page,None of the above,Connects an upward flow of more than 3 symbols,C
+Which of the following is not true about flow charts,"
+All flow charts end with a terminal or a connection loop
+"," 
+The decision symbol has two exit points; these can be on the sides or the bottom and on one side",Flow chart symbols have an entry point on the top of the symbol with no other entry points,None of the above,D
+Which of the following is NOT an advantage of flow chart in computer programming,Supports coding of program,Supports efficient program maintenance,Communicates the program flow,None of the above,D
+State example(s) of algorithm,"Flowchart
+","
+Pseudocode
+","
+Pseudocode
+","
+None of the above
+",C
+Identify a Search Engine out of the following options,Microsoft Excel,Google,"
+Apple","WWW
+",B
+Which of the following is not a main concern of computer ethics,"Internet privacy
+","Cracking
+","Copyright Infringement
+",Entertainment,D
+The property of algorithm which states that an algorithm must always terminate after a specific number of steps is called----------------------,Finiteness,"Definiteness
+",None of the above,"
+All of the above
+",A
+What is the full meaning of ARPANET,Advanced Research Projects Agency Network,"Advanced Residents Projects Agency Network
+",Advanced Research Projects Agents,"Advanced Projects Agency Network
+",A
+Who developed the internet,"
+Isaac Newton
+",Tim Bernes-Lee,"
+Bill Gates","Mark Zukaberg
+",B
+Which of the following is an example of Browser,Microsoft work,Corel Draw,Internet Explorer,Python,C
+HTML represents,HyperText Markup Language,"Hyper Makeup Language
+",Higher Markup Language,"
+None of the above
+",A
+Look at the following Top level domains and state which of them represents a military site,.com,.edu,.org,.mil,D
+A computer system is known for,Formulating instruction,"Directing instruction
+",Executing Instruction,Formatting Instruction,C
+The first thing a computer does while it manipulates data is,"Store the data
+",Take the data as input,Process the data,"
+None of the above
+",B
+A computer cannot do the following,"Store data
+","Process data
+","Take in data as input
+","None of the above
+",D
+One of the following could not be classified as part of a computer,"
+Display unit
+","CPU
+","Storage unit
+",None of the above,D
+A program could be defined as,A formative instruction,A directed instruction,"A formatted instruction
+",An executable instruction,D
+A computer can be classified based on the following except,"Type of Data Processed
+","Age of technology
+","
+Meaning","
+Size
+",C
+Computer is classified on purpose based on,Special Purpose,"General Purpose
+",All of the above,"None of the above
+",C
+A classification of computer that combines the best qualities of digital and analog computers is,Joint computers,"Specific computers
+",Hybrid computers,"
+General computers
+",C
+The program for operating computer is stored in,RAM,ROM,CPU,Monitor,B
+A Computer that is known for representing data or information in discrete or discontinuous form is,Joint computer,"Hybrid computer
+","Special Computer
+",Digital Computer,D
+The first programmable computer is,MAC engine,"SUM engine
+","Product engine
+",Difference engine,D
+The name of the person that produced the first computer is,Pascal Blaise,Charles Babbage,"Bill Gate
+","Mike Warren
+",B
+One of the following is the major characteristic of the first generation computer,Transistors,"Integrated circuit
+","Vacuum tubes
+","All of the above
+",C
+The electronic switches that was used instead of electromechanical relays by first generation computers could also be termed as,Vacuum tubes,"Integrated circuits
+","VLSI
+","Transistors
+",A
+The concept of Von Newman that made EDVAC more remarkable than ENIAC is,"Speed
+","Accuracy
+",Stored program,"None of the above
+",C
+The programming language that was applicable to the first generation computers is,High level language,"Assembly language
+","Machine language
+","None of the above
+",C
+The remarkable feature of the second generation computers is,"Transistors
+","Integrated circuit
+","Vacuum tubes
+","All of the above
+",A
+The type memory that was used by second generation computers is classified as,Magnetic Core,"Solid base
+","Liquid State
+","
+Vacuum tubes
+",A
+Which of the following is not part of classification by size,Laptop computer,Mini computer,"Super computer
+",Micro computer,A
+One of the following is part of the classification of computers by size,"
+Desktop computers
+",Laptop computers,Mainframe computers,"
+Palmtop computers
+",C
+Which generation of computers is characterized by the development of Integrated circuit,"First
+","
+Second
+",Third,"fourth
+",C
+One of the characteristics of fourth generation of computers is,VLSI,IC,LSI,Transistor,C
+Palmtop and desktop computers are examples of,"Larger computers
+",Micro computers,Super computers,"Mega computers
+",B
+Laptop and Tablet computers are examples of,"Mega Computers
+","Mini computers
+","Super computers
+","
+Micro computers
+",D
+VLSI is a major characteristic of,"Sixth generation
+",Fifth generation,Fourth generation,Third generation,C
+Which of the generation of computers were also characterized by SSI and MSI evolution,"Sixth generation
+",Fifth generation,"Fourth generation
+",Third generation,D
+Development of LAN is one of the advantages of,First generation,"Second generation
+",Third generation,"
+Fifth generation",D
+Mouse is part of computer,"Software
+",Hardware,"Applicationware
+","Partsware
+",B
+CPU stands for,"Cost of Public Union
+",Central Processing Union,"Cost of processing unit
+",None of the above,D
+RAM and ROM are examples of computer,"
+Software
+","
+CPU",Memory,"Monitor
+",C
+identify an output device from the options below,"touch pen
+","
+speaker","keyboard
+","mouse
+",B
+identify an input device from the options below,"
+printer
+","
+speaker
+",monitor,"
+mouse",D
+Which group are output devices below,"Mouse, printer, monitor
+","Printer, monitor, speaker","
+Keyboard, monitor, speaker
+","Speaker, mouse, printer",B
+ROM stands for,"Random output means
+",Random Access Memory,"Read out memory
+",Read only memory,D
+RAM stands for,"
+Random output means",Random Access Memory,"Read out memory
+","
+Read only memory
+",B
+One of these is not an input device,"
+Mouse
+","Keyboard
+","Scanner
+",printer,D
+CPU can be found in,System unit,Display unit,"Keyboard
+","mouse
+",A
+which of these is a characteristics of first generation computers,"
+very large and consume spaces",very small and can be carried on hand,"multitasking
+","
+parallelism
+",A
+SSI as associated with generation of computers is an acronym for,Small scale integration,Small sectional interpretation,"Solid state interface
+","Solid statue interface
+",A
+MSI as associated with generation of computers is an acronym for,"Meddle section interpretation
+","Middle sectional interpretation
+",Medium scale integration,"Most scalable interpretation
+",C
+VLSI is a major characteristic of,Sixth generation,Fifth generation,"Fourth generation
+",Third generation,B
+Laptop and Tablet computers are examples of,Mega Computers,"Super computers
+",Micro computers,"Mini computers
+",C
+High level languages were first introduced first in the,First generation computers,Fifth generation computers,Fourth generation computers,Second generation computers,D
+Assembly language is an example of,High level language,Highest level language,Low level language,None of the above,C
+Parallelism is a characteristic of,First generation computers,Second generation computers,Third generation computers,Fifth generation,D
+USB as a connective port of computer stands for,United State of Base,Universal section boundary,Universal Serial Bus,"
+Union Section Bus",C
+Computer is classified on size based on,Mini computers,Micro computers,All of the above,"
+None of the above",C
+Which of these is not among classification of computers by generation,Fifth,"
+First
+",Half,Second,C
+Which of these are group of input devices,"Camera, mouse, scanner","Mouse, keyboard, printer","Keyboard, light pen, projector","Mouse, keyboard, monitor",A
+Which of these cannot be classified as part of a computer system,Mouse,Printer,"
+Scanner","
+CUP",D
+Fortran and COBOL are examples of,High level language,Low level language,"
+All of the above",None of the above,A
+Computer software is basically - and - required to perform specific tasks on a system.,Programs and procedure,Operations and programs,Systems and procedure,procedure and operations,A
+Computer languages include,"Low-level, medium and Assembly Languages","Low, Assembly and High Level languages","Assembly, Low-level and Machine Languages","Low, High and Medium Languages",B
+One of the following is NOT a system software,Device drivers,Software components,"
+System components",Operating systems,C
+Programming software helps writing programs through the following EXCEPT,Compilers,Linkers,Deboggers,Editors,C
+Class of software that is used for solving specific tasks is generally termed as,Specific-task software,Microsoft suite,Enterprise software,Application software,D
+Microsoft Access is an example of a,Multimedia software,Database software,Presentation software,Simulation software,B
+Customer relationship management system is an example of a,Multimedia software,Enterprise software,Management software,Simulation software,B
+Encarta is an example of,Educational software,Multimedia software,Application suite,Presentation software,A
+"Software used to manipulate text, graphics and numbers are known as",Editing software,Debuggers,Application software,Graphic software,C
+"Applications that provide a collection of documents and graphic illustrations including clip art drawings, diagrams, diagrams and photos",Graphic applications,Drawing applications,Microsoft suite,Web-based applications,D
+"Class of application that can be used to organize, analyze and chart numerical data such as financial reports is known as",Microsoft Excel,Corel Quattro Pro,Spreadsheet,Lotus 1-2-3,C
+A collection of relational data is known as,Information,Database,"
+Files",Document,B
+SQL means,Structured Quality Labels,System Query Language,System Quality Labels,Structured Query Language,D
+DBMS means,Database Management Software,Database Manipulating System,Database Manager System,Database Management System,D
+One of the following best describes a malware,Intrusive,free,downloadable,cheap,A
+Software that comes with a demo version is known as,Malware,Shareware,Spyware,Commercial software,D
+Whatsapp is an example of,Malware,Chatware,Shareware,Adware,C
+"Trojan horses, worms and viruses are examples of",Malware,Nagware,Shareware,Adware,A
+Norton internet security suite and the antivirus system are examples of,Malware suite,Utility suite,Shareware suite,Adware suite,B
+Computer softwares can be classified as,Programming and graphics,Editors and debuggers,System and application,Application and programming,C
+Computer data is transmitted block by block in transmission known as ..................,synchronous,digital,asynchronous,analog,A
+"In computer, which of the following is a communication media?",all of these,standard telephone lines,coaxial cables,microwave transmission,A
+"In computer, converting a digital signal in to an analog signal is called",modulation,demodulation,conversion,transformation,A
+Signals generated by a operating system to send it over phone line must be further converted into a,AC signal,analog signal,"
+digital signal
+",microwave,B
+"In computer, process of superimposing a low frequency signal over a high frequency signal is called",modulation,demodulation,conversion,transformation,A
+"Software application which is used for retrieving, presenting and traversing information resources on World Wide Web is called",gateway,EFT,browser,teleconferencing,C
+Layers present in a computer OSI model are,4,5,6,7,D
+Collection of documents stored in a computer which is permanently connected with internet around world is called,Telnet,WWW,"
+FTP
+",LAN,B
+A node which is represented in a computer network topology is basically a,computer,hub,hardware,printer,A
+Key element of a computer protocol is,syntax,semantic,timing,all of these,D
+Which of following is a computer internet protocol?,IEEE 802.2,IEEE 802.3,TCP/IP,MAC,C
+Computer software which combines audio and video application sharing is known as,teleconferencing software,data sharing software,project sharing software,utility software,A
+"Topology which takes more cable than e.g. a bus, but benefit is that if a cable fails, only one node will be brought down is",bus topology,ring topology,star topology,mesh topology,D
+Which of following is not a benefit of a computer network?,connect people,reduce hardware cost,produce high quality programs,enable shared applications,C
+"In computer, ISO stands for","
+international standards organization",independent system operator,international students organization,infrared space observatory,A
+Which of following is not a computer LAN topology?,bus ,band,star,ring,B
+Main purpose of computer network is............,file sharing,hard disk sharing,printer sharing,all of these,D
+Transferring information from a computer to internet is called,downloading,down sizing,pasting,uploading,C
+Bottom layer of computer OSI model is...............,physical,data link,network,application,A
+Top most layer of computer OSI model is..........,application,transport,session,presentation,A
+Layer of computer OSI model which furnishes electrical connections and signaling is known as........,application,physical,session,network,B
+"In computer, FTP facility is used to.......",transfer protocol,transfer file,connect to internet,check PC,D
+If a computer in a network shares resources which can be accessed by other computers it is called a................,server,client,sender,all of these,A
+"In computer, FTP stands for...............",file transfer protocol,finding tele path,final transmission program,file transfer process,A
+Layer of computer OSI model which performs data compression is.............,network,data link,presentation,physical,C
+ISO developed a standard model of computer data communication system which is known as......,OSI,ANSI,SNA,DEC,A
+Layer of computer OSI model which is concerned with addressing and routing is called................,network,data link,physical,transport,A
+Interconnection which is present between two or more computers so that they can communicate with each other is called..............,network,sharing,link,LAN,A
+OSI stands for...............,Open System internals,Open System international,Open System interconnectio,Organization Standard International,C
+Framing is an activity at the.................layer of the OSI,network,application,physical,data link,D
+The following are advantages of social media except.........,Sharing,Socialization,Cyberstalking,Crowdsourcing,C
+The following are examples of social media platform except.............,Google,Google+,Facebook,Telegram,A
+The path through which signal will be sent between two nodes is determined at the..............layer,Physical,Logical,Transport,Ntwork,D
+Conversion of bit into electrical or optical signals is the carried out at the ........layer,Data Link,Physical,Application,Transport,B
+.................layer performs the role of translator,Presentation,Session,Physical,Data Link,A
+The following are transmission modes except...............,Duplex,Quarter Duplex,Half Duplex,Simplex,B
+Routers and gateways are devices found on the ......................layer of the OSI model,Physical,Session,Presentation,None of the above,D
+Service point addrressing is one of the role of which layer?,Session layer,Transport layer,Data Link layer,Network layer,B
+Mechanism used by the session layer to prevent two parties from attempting the same critical operation at the same time is called .......,Operation management,Access management,Token management,None of the options,C
+The following activities are executed at the presentation layer except............,Encryption,Decryption,Compression,Framing,C
+The following are protocols on the Application layer except.......................,HTTP,FTP,UDP,BNS,C
+Which of the following is not the function of the Application Layer?,None of the Options,Directory Services,Mail Services,Network Virtual Terminal,A
+SMTP stands for ...........,Systemic Mail Transfer Protocol,Simple Mail Transport Protocol,Simple Mail Transfer Protocol,Systemic Mail Transmition Protocol,C
+Which of the following is not a protocol in Layer 3 of the OSI model?,Open Shortest Path First,Internet Protocol Version 6,"
+Exterior Gateway Protocol",Border Gateway Protocol,D
+The two types of connection control on the transport layer are...................................,Connectionless and Connection-Oriented TL,Active and Passive TL,Direct and Indirect TL,"
+None of the options",A
+Bluetooth and Infrared operates on which layer of the OSI-model?,Transport,Physical,Application,Session,B
+Voltages and Baud rate needed for transmission is defined on the...........layer,Network,Presentation,Data Link ,Physical,D
+Synchronization is an activity on the following layers except..................,Session,Data Link,Presentation,"None of the Options
+",C
+...........................layer is the inteface between the model and end-users,Session,Physical,Application,"
+Network",C
+Error control in carried out of the following layers except...................,"
+Presentation",Transport,"
+Network
+",Data Link,A
+Which of the following is not true about the internet,A network of networks,Started as ARPANET,Started in US Department of defense,None of the above,D
+ARPA represents,Advanced Research Projects Agency,Advanced Reach Projects Agency,Advanced Residents Projects Agency,Advanced Research Projects Agents,A
+The World Wide Web came into being in,1990,1991,1992,1993,B
+Who developed the internet,Isaac Newton,Tim Bernes-Lee,"
+Mark Zukaberg",Bill Gates,B
+The internet works with which of the following major protocols,TCP/IP,TPP/IPC,PCT/PI,CPT/PI,A
+HTTP represents,HyperText protocol,Hypertext Transfer Protocol,Hyper Protocol,None of the above,B
+HTML represents,Hyper Text Markup Language,Hyper Markup Language,Higher Markup Language,None of the above,A
+URL represents,United Resource Locator,Universal Resource Locator,Uniform Resource Locator,None of the above,C
+Which of the following is an example of Browser,Microsoft Word,Corel Draw,Internet Explorer,Python,C
+Which of the following is an example of search engine,Microsoft Excel,Google,Apple,WWW,B
+URL can also represent,Web address,Tool bar,Search engine,None of the above,A
+Look at the following Top level dormains and state which of them represents a military site,.com,.org,.edu,.mil,D
+Which of the Top level domains below best applies to University website,.com,.edu,.org,.mil,B
+"When establishing a website for commercial purposes, which of the following Top level domains best applies",.com,.edu,.org,.mil,A
+"To establish a government website, which of the following Top level domain would you recommend","
+.int",.biz,.gov,"
+.name
+",C
+The browser keeps track of the pages you’ve visited and saves them on your hard disk so they will load faster when you return to them. These saved files are stored where,RAM,ROM,Cache,Magnetic device,C
+Search engine databases are selected and built by Computer Robot Programs called,Spiders,Search rats,"Quicknets
+",Bots,A
+"When personal details of an innocent people are harvest by a third party so that they can be used for malicious purposes, is called",Personal theft,Identity theft,Institutional theft,None of the above,B
+In the world computing the brabch of philosophy that deals with determining what is right and wrong is called;,Computer ethics,Computer rights,Computer forensics,"
+None of the above",A
+Which of the following is/are an ethical behavior in computing,"
+Use of computer to steal",Use of computer to harm other people,"
+None of the above",All of the above,C
+Which of the following is NOT an example of antivirus,AVG,Avast,Norton,Microsft Word,D
+The idea of computer ethics was invented in what year,1950,1951,1952,1953,A
+The idea of computer ethics was invented by who,Professor Bill Harvard,Professor Nobert Weiner,Professor John Clijnton,"
+Edward Newman
+",B
+Which of the following is NOT a main concern of computer ethics,Internet privacy,Cracking,Copyright Infringement,"
+Entertainment
+",D
+Which of the following computer based programs is non-destructive,Virus,Worms,Trojan horse,"
+Microsoft windows",D
+Which of the following is a primary architecture of the internet,Client-client architecture,Client-server architecture,Server-server architecture,None of the above,B
+Which of the following is NOT a type of protocol,TCP,IP,HTTP,.gov,D
+TCP represent a kind of protocol fully called,Transport Control Protocol,Transmission Control Protocol,Transfer Co-ordinating Protocol,"
+None of the above",B
+WWW represents,Worldwide Network,World Wide Web,World Wide Internetwork,None of these,B
+IP is a popular protocol in computing; IP therefore represents,Information Protocol,"
+Internet Protocol",Intercharge Protocol,None of the above,B
+ARPANET was a network that connected major computers at University of ……………,University of California,University of Cambridge,University of Capetown,University of Connecticut,A
+The World Wide Web came into being in what year,1990,1991,1992,1995,B
+"------------contains the basic software you need in order to find, retrieve, view and send information over the internet.","
+Browser",Web page,Internet retriever,None of the above,A
+"Generally, any text that contains “links” to other text are called",Browser,Hypertext,URL,None of the above,B
+------------ is a term which describes sending data from a local computer to a remote computer,Download,Offload,"
+Update
+",Upload,D
+------------- is aterm which describes copying data from a remote computer to a local computer,Update,Download,Offload,"
+None of the above
+",B
+The beginning page of any website is called,First page,New page,Home page,None of the above,C
+What is the full meaning of ARPANET,Advanced Research Projects Agency Network,"
+Advanced Residents Projects Agency Network",Advanced Research Projects Agents,Advanced Projects Agency Network,A
+The World Wide Web come in being in,1984,1995,1991,None of the above,C
+The Internet was developed by,Bill Gates,Tim Bernes-Lee,Alan Turning,None of the above,B
+------------- is a set of steps for solving a particular problem,Instruction,Algorithm,Approach,None of the above,B
+The property of algorithm which states that an algorithm must always terminate after a specific number of steps is called----------------------,"
+Finiteness",Definiteness,None of the above,All of the above,A
+All of the following are properties of algorithm except,Finiteness,"
+Definiteness
+",None of the above,All of the above,C
+A diagrammatic representation of flow of data/information through a processing system is called-,"
+New diagram",Program diagram,Flow chart,"
+None of the above
+",C
+The rectangular symbol in a flowchart represents___,Decision,Connector,Process,Terminal,C
+The Diamond symbol in a Flowchart represents,Decision,Connector,Process,Terminal,A
+The arrows in a Flowchart represents,Flow lines,Decision,Process,Terminal,A
+The Circular symbol in a Flowchart represents,Flow lines,Connector,Process,Terminal,B
+Connector symbol in a flow chart performs the following functions except,Connects from one page to another page,Connects from the bottom of the page to the top of the same page,None of the above,Connects an upward flow of more than 3 symbols,C
+Which of the following is not true about flow charts,All flow charts end with a terminal or a connection loop,The decision symbol has two exit points; these can be on the sides or the bottom and on one side,Flow chart symbols have an entry point on the top of the symbol with no other entry points,None of the above,D
+Which of the following is NOT an advantage of flow chart in computer programming,Supports coding of program,Supports efficient program maintenance,Communicates the program flow,None of the above,D
+State example(s) of algorithm,Flowchart,Pseudocode,All of the above,None of the above,C
+Identify a Search Engine out of the following options,Microsoft Excel,Google,Apple,WWW,B
+Which of the following is not a main concern of computer ethics,Internet privacy,Cracking,Copyright Infringement,Entertainment,D
+The property of algorithm which states that an algorithm must always terminate after a specific number of steps is called----------------------,"
+Finiteness","
+Definiteness",None of the above,All of the above,A
+What is the full meaning of ARPANET,Advanced Research Projects Agency Network,Advanced Residents Projects Agency Network,Advanced Research Projects Agents,Advanced Projects Agency Network,A
+Who developed the internet,Isaac Newton,"
+Tim Bernes-Lee",Bill Gates,"Mark Zukaberg
+",B
+Which of the following is an example of Browser,Microsoft work,Corel Draw,Internet Explorer,Python,C
+HTML represents,"
+HyperText Markup Language",Higher Markup Language,Hyper Makeup Language,None of the above,A
+Look at the following Top level domains and state which of them represents a military site,.com,.edu,.org,.mil,D
+The language that was applicable to the first generation computers is,High level language,Assembly language,Machine language,None of the above,C
+The following is an input device except,Keyboard,Mouse,Scanner,"
+Monitor",D
+One of the following can be referred to as processed data.,Processing,Information,Data,Words,B
+The Device that was designed to replace the traditional method of counting is called,500BC,Machine,Calculator,Abacus,D
+Who is referred to as father of computers,Blaise Pascal,Charles Babbage,Herman Hollerith,"
+Bill gate",B
+Which year did Blaise Pascal invented the first mechanical calculator,1646,1642,1522,1641,B
+The technological base of first generation of Computers is called,Transistor,Vacuum tube,integrated circuit,capacitor,B
+What is the first general purpose digital computer that was based on the idea of stored Program Concept,"
+ENIAC
+","
+EDVAC
+",EDSAC,EVAST,C
+Digital Computer has how many states,One,Two,Three,One and Half,B
+Monitor can be categorized into which Computer Device,Input device,Storage device,Output Device,Auxiliary Device,C
+Laptop can be classified into which type of Computer,Minicomputer,Micro Computer,Mainframe Computer,Modern Computer,B
+The following can be found in the front casing of a Computer System except,Power Switch,Processor,Reset Button key lock,"
+CD-ROM Drive
+",B
+One of the following can be referred to as Visual Display Unit,Monitor,Printer,Keyboard,Mouse,A
+What is the number of keys in a standard keyboard,100,105,112,102,B
+Which device is used to convert and transfer data or instruction into a Computer System,Storage Device,Output Device,Input Device,Auxiliary Device,A
+The Computer device that is used for selecting and Clicking ions and menus on the screen of the computer system is called,Keyboard,Monitor,"Mouse
+",Printer,B
+The hardware comprises the following Unit except,Device Unit,Input Unit,Processing Unit,Output Unit,A
+The following computer device can be categorized into output unit except,Printer,keyboard,Screen Touch,"
+Monitor
+",B
+The main memory also known as primary memory is made up of,DRAM and ROM,RAID and RAM,RAM and ROM,CSC and MERMORY,C
+Which Language can be referred to as low level language,Assembly,Fortran,Pascal,Machine,D
+One of the following can be categorized as Utility Software,Operating System,Anti Virus,Application Program,Word Processor,B 
+A digital computer system has how many number of states,1,3,2,0,C
+Thermometer can be categorized into which type of computer system,Digital Computer,Analogue Computer,Hybrid Computer,Integrated Computer,B
+Laptop can be grouped into which computer classification by size,Super Computers,Mainframe Computers,Mini Computers ,Micro Computers,D
+Operating System can be grouped into which type of software,System software,Utility software,Application program,Microsoft word,A
+The central Processing Unit consist of the following functional parts except,Main memory unit,Auxiliary Storage Unit,Control Unit,Arithmetic and Logical Unit (ALU),B
+The technological base of third generation of computers is called,Vaccum tube,Integrated circuit,transistors,Abacus,B
+The type of monitor that display only one colour (dark colour) is called,Visual Display Unit,Colour Monitor,Monochrome,Output Unit,C
+The main memory of a computer system is also referred to as which memory,Secondary,Auxillary,Read Only,Primary,D
+Computer System is made up of which major part,3,1,4,2,D
+First Generation of Computers that is very large is invented in which year,1958,1945,1944,1946,D
+Computer can be broken down into how many components,3,1,2,4,C
+A group of programs written by programmer to enable the harware function is?,mainframe,humanware,software,mainware,C
+------- can be defined as the electronic mechanical components of a computer system,Peripheral Devices,hardware,CPU,software,B
+How many parts can computer haredware be broken down into ?,1,3,2,5,C
+CPU is an example of ------- ?,software,humanware,hardware,control unit,C
+"--------is refers to as the "" Heart "" of the the computer",Peripheral Devices,Memory unit,CPU,Logic unit,C
+CPU means ?,Central Processor Unit,Central Power Unit,Control Processing Unit,Central Processing Unit,D
+Computer hardware is mande up of ----- and ------ ?,CPU & peripheral devices,ALU & peripheral devices,Control unit & Memory unit,none of the above,A
+ALU means ?,Arithemetic & Legitimate unit,Arithemetic & Logic unit,Arithemetic & Legal unit,none of the above,B
+CPU consists of ------ major parts,4,2,5,3,D
+CPU consists of the following excepts,Control unit,memory unit,Arithmetic & Legitimate unit,Arithmetic & Logic unit,C
+A unit of computer that performs arithmetic and logic operations is ?,CPU,ALU ,ROM,RAM,B
+--------- supervises each unit of the computer system,ALU,Control unit,memory unit,none of the above,B
+Under which control does the control unit supervise each unit of the computer?,memory unit,Stored programs,ALU ,CPU,B
+The main memory is also refered to as,Secondary memory,Primary memory,unit memory,none of the above,B
+Computer memory can be classified into -------- categories,2,3,5,4,A
+ROM means ?,Ready open Memory,Random Only memory,Read Only Memory,Random Open Memory,C
+Main memory is also known as ?,Internal memory,External memory,Extended memory,none of the above,A
+Main memory is used to store intermediate results and data while computer is processing,TRUE,FALSE,,,A
+RAM means?,Ready Access Memory,Read Access Memory,Random Accepted Memory,Random Access Memory,D
+How types of memory does computer have?,3,2,4,5,B
+secondary memory is also known as ?,External memory,Internal memory,Extensive memory,none of the above,A
+Optical disk is an example of ?,primary memory,secondary memory,unit memory,Extensive memory,B
+"Equipments used to get instructions, data or information into the computer are called ?",output devices,input devices,external devices,none of the above,B
+---------- is one of the peripheral devices,input devices,external devices,optical devices,none of the above,A
+The following are examples of input devices except ?,keyboard,microphone,digital camera,multimedia speaker,D
+------- is an example of input devices,printer,monitor ,projector,digital camera,D
+Equipments used to get information or result from a computer to the outside world are ?,input device,output device,data devices,information devices,B
+Part of computer components is,sofware,paperware,humanware,none of the above,A
+------- and -------- are types of computer software,system software & application software,system software & human software,application software & output software,none of the above,A
+A group of programs which control the hardware is?,hardware,software,application ware,people ware,B
+Program that control the performance of the system is,System software,Application software,peopleware,none of the above,A
+How many part is system software made up of ?,2,3,5,4,B
+---------- is an example of system software,Operating system,Input device,output device,Application software,A
+The following are examples of system software except?,Application software,Operating system,Translator,Utilities,A
+A set of programs designed to efficiently manage the resources of the computer program is ?,Translators,Operating system,Utilities,Application system,B
+The following are examples of the operating system except?,Ms-Dos,Xenix,Windows,none of the above,D
+-------- is an example of operating system,Electronic spreadsheet,Graphics packages,Accounting packages,Linux,D
+The following are functions of operating system except?,It simplifies the creating and management of files,It allocates computer resources,It allocates memory for any job,none of the above,D
+A computer program that changes a program from one language to another is?,Utilities,Operating system,Translator,Application,C
+The following are examples of translator except?,Complier,Interpreter,Assembler,Information,D
+A software designed to perform house keeping task or routine functions is?,Utilities,translators,Operating system,Interpreter,A
+The following are functions of utilities except?,Alloctaion of computer resources,Copying of files,Sorting records and data file,backup,A
+-------- is an example of utility s/w,Editor,Producer,Interpreter,Compiler,A
+Word processing is an example of ---------- ?,Application softwre,System software,Utility software,none of the above,A
+The following are examples of application software except?,Computer packages,Architectural packages,Editor,Word processing,C
+Linux is an example of --------- ?,Operating system,Translators,Utilities,Assembler,A
+The following are examples of operating system except ?,Xenix,Windows,Linux,Utilities,D
+The Internet is the largest computer network,No,Yes,I don't know,none of the above,B
+THE Acronym internet stands for,International Network,Interconnected Network,Inter-Networth,Interconnted Networth,B
+A neetwork is a group of how many computer linked together?,Two,Two or More,Four or more,Four,B
+LAN is an acronym for,Legal Area Network,Local Area Network,Legal Authentic Network,Local Authentic Network,B
+WAN is an acronym for,World Area Network,Wide Area Network,World Authentic Network,Wide Authentic Network,B
+A WAN typically consist of two or LANS,False ,TRUE,Not sure,none of the above,B
+"The type of omputer network used to connect two or more computer sharing certain rresources in a relatively small geographuical location, ofen the same building",WAN,LAN,WWW,HTML,B
+A computer that serves many different computers in a network by running specialized software and storing information.,Computer Network,Server,Computer Services,None of the above,B
+"When you access a web page, your computer is acting as a?",Host,Client,Server,None of the above,B
+Which of the software communicate with the server to get the information?,Web browser,A and C,Email software,none of the above,B
+"In order for your browser to display a web page, it sends the data to the server where the page is stored.",TRUE,False ,Not sure,All of the above,B
+"In P2P, each computer do not acts as both a server and a client ",TRUE,False ,A and B,Not sure,B
+An example of P2P software include,Internet Explorer,Skype,Mozilla Firefox,Facebook,B
+P2P is an acronym for which of the following?,Point-to-point,peer-to-peer,Pair-to-Pair,None of the above,B
+WWW is an acronym that stand for,Wide World Web,World Wide Web,Web World Wide,Wide Web World,B
+The internet is a virtual network of web sites connected by hyperlinks.,Ture,FALSE,No Idea,Not sure,B
+The acronym HTML stand for?,High Text Mark up Language,Hypertext Markup language,HyperText Marking Language,HperText Mark Language,B
+The backbone of the WWW is made of?,Internet files,HTML files,WWW files,LAN files,B
+What does CSS stand for?,Cascading Styles Sheet,Cascading Style Sheet,Cascade Style of System,Cascading Style System.,B
+The following are an example of Web browser except,Safan,WhatsApp,Google Chrome,Netscape Navigator,B
+The acronym URL stands for?,Unity Reform Locator,Uniform Resource Locator,Uniform Reform Locator,Unity Resource Locator,B
+ISP is an acronym that stands for,Internet Service Protocol,Internet Service Provider,Interconnected Service Protocol,Interconnected Service Provider,B
+The term Http is an acronym for,HyperTextTransmission Protocol,HyperText Transfer Protocol,HighText Transmission Protocol,HighText Transfer Protocol.,B
+The following are features of E-mail except (b) Look directory for files FTP Server,One-to-one or One-to-many Communication,Look directory for files FTP Server,Encourages informational communications,Instant Communication,B
+The following are objects of FTP except?,Get the file(s) you want,Encourages informational communications,Look directory for the files in FTP server,Gives the remote site a Password,B
+Which of the following steps are required for a TELNET session?,Dial up connection,Log in the remote computer,Leased connection,Cable Modem Connection.,B
+Which of the following is a family of technologies that provides digital transmission over the wires of a local telephone network,TELNET,DSL,FTP,SMTP,B
+The following are different ways of communication online except,Social Networking,Internet,VoIP,Chat,B
+The term VoIP is an acronym for?,Voice On Internet Protocol,Voice Over Internet Protocol,Video On Internet Protocol,Video Over Internet Protocol.,B
+The acronym DSL stands for?,Dynamic Subscriber Line,Digital Subscriber Line,Dynamic Subscription Line,Digital Subscription Line.,B
+IP is an acronym that stands for?,Internet Provider,Internet Protocol,International Protocol,Internetwork Provider,B
+Which of the following best suite the acronym ISP?,Internet Server Protocol,Internet Service Provider,Internet Service Protocol,Internet Server Provider.,B
+Which of the following is not an example of search engine?,Google,Twitter,Yahoo,Bing,B
+Google is an example of web browser.,TRUE,False ,A and B,Not sure,B
+Which of the following is not an example of Social Media Platform?,WhatsApp,Udemy,Twitter,Medium.,B
+Slack is an example of social media platform.,FALSE,TRUE,Not sure,None of the above,B
+Is HTML programing language?,Yes,No,A and B,I don't know,B
+Which of the following is an example of a scripting language?,ISP,HTML,FTP,DSN,B
+The founder of Google are,Steve Jobs and Sergey Brin,Lamy Page and SergeyBri,Sergey Brin and Mark Zuckerberg.,Mark Zuckerberg and Larry Page,B
+The founder of amazon is?,Sergey Brin,Jeff Bezos,Bill Gates,Warren Buffet.,B
+The founder of WhatsApp Mobile Messaging application is?,Mark Zuckerberg,Jan Koum,Mark Zuchaberg,Larry Page.,B
+The founder of Facebook is?,Mark Zuchaberg,Mark Zuckerberg,Jan Koum,Mark Zuckergag.,B
+The following are founders of twitter social platform except?,Jack Dorsey,Jan Koum,Noah Glass,Biz Stone.,B
+The following are some of the things to consider in selecting ISPs except?,Speed,Weather,Price,Service Record.,B
+The acronym DNS Stands for?,Domain Name Service,Domain Name System,Domain Name Server,None of the above.,B
+The method or protocol by which data is sent from one computer to another on the internet is called,DHCP,IP,TCP,UDP.,B
+"The protocol that makes sure the data is put in the right order, and none of it is missing is called",UDP,TCP,ISP,P2P.,B
+SNMP is an acronym for?,Simplified Network Management Protocol,Simple Network Management Protocol,Simple Network Managing Protocol,Simplified Network Management Provider.,B
+The use of internet is ………..,for special people,for all,few,professionals,B
+The internet is a virtual Network of websites connected by hyperlinks,TRUE,False ,Not Sure,No idea,A
